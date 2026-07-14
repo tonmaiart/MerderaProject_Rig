@@ -1,0 +1,97 @@
+newmtl M_EyeballsShadow
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+newmtl M_Kafka_Clothes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_ChestCloth_Geo-Color.png
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 18.00
+newmtl M_Kafka_EyeBall
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl M_Kafka_EyeSpec
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl M_Kafka_Eyebrows
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Eyebrows_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_Eyelashes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Eyebrows_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_Face
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Face_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_Hair
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_HairTopKnot_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_Head
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Face_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_InnerMouth
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl M_Kafka_Iris
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Iris_Geo-Color.png
+Ni 1.00
+newmtl M_Kafka_Skin
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Body_Geo-Color.png
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 18.00
+newmtl M_Kafka_Tail
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Kafka_Tail_Geo-Color.png
+Ni 1.00
+newmtl initialParticleSE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00

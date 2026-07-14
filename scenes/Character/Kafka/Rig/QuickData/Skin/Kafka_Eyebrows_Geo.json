@@ -1,0 +1,2501 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "G:\\My Drive\\Projects\\KafkaProj\\share\\Character\\Kafka\\Rig\\QuickData\\Skin/Kafka_Eyebrows_Geo.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "Kafka_Eyebrows_GeoShapeDeformed",
+                "group": 0,
+                "stride": 3,
+                "size": 40,
+                "max": 40,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            3.4491798877716066,
+                            136.70411682128907,
+                            8.428154945373536
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            6.885597229003906,
+                            135.60598754882813,
+                            5.818256855010986
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            7.397365093231201,
+                            134.6208038330078,
+                            5.027582168579102
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            1.983672022819519,
+                            136.56402587890626,
+                            8.947493553161621
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            -3.44917893409729,
+                            136.70411682128907,
+                            8.428155899047852
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            -6.885598182678223,
+                            135.60598754882813,
+                            5.818256855010986
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            -7.397367000579834,
+                            134.6208038330078,
+                            5.027581214904785
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "value": [
+                            -1.983672022819519,
+                            136.56402587890626,
+                            8.947493553161621
+                        ]
+                    },
+                    {
+                        "index": 8,
+                        "value": [
+                            4.97777795791626,
+                            136.5441436767578,
+                            7.593341827392578
+                        ]
+                    },
+                    {
+                        "index": 9,
+                        "value": [
+                            -4.97777795791626,
+                            136.54415893554688,
+                            7.593340873718262
+                        ]
+                    },
+                    {
+                        "index": 10,
+                        "value": [
+                            -6.0559282302856449,
+                            136.15768432617188,
+                            6.6623148918151859
+                        ]
+                    },
+                    {
+                        "index": 11,
+                        "value": [
+                            6.0559282302856449,
+                            136.1576690673828,
+                            6.662313938140869
+                        ]
+                    },
+                    {
+                        "index": 12,
+                        "value": [
+                            3.4776599407196047,
+                            136.9497833251953,
+                            8.413467407226563
+                        ]
+                    },
+                    {
+                        "index": 13,
+                        "value": [
+                            5.019064903259277,
+                            136.75592041015626,
+                            7.569707870483398
+                        ]
+                    },
+                    {
+                        "index": 14,
+                        "value": [
+                            6.126910209655762,
+                            136.3563995361328,
+                            6.602410793304443
+                        ]
+                    },
+                    {
+                        "index": 15,
+                        "value": [
+                            6.945528984069824,
+                            135.72332763671876,
+                            5.75441312789917
+                        ]
+                    },
+                    {
+                        "index": 16,
+                        "value": [
+                            -3.477658987045288,
+                            136.9497833251953,
+                            8.413468360900879
+                        ]
+                    },
+                    {
+                        "index": 17,
+                        "value": [
+                            -5.019064903259277,
+                            136.75592041015626,
+                            7.569707870483398
+                        ]
+                    },
+                    {
+                        "index": 18,
+                        "value": [
+                            -6.126908779144287,
+                            136.35641479492188,
+                            6.602412223815918
+                        ]
+                    },
+                    {
+                        "index": 19,
+                        "value": [
+                            -6.945529937744141,
+                            135.72332763671876,
+                            5.75441312789917
+                        ]
+                    },
+                    {
+                        "index": 20,
+                        "value": [
+                            -2.0202410221099855,
+                            136.5659942626953,
+                            9.05121898651123
+                        ]
+                    },
+                    {
+                        "index": 21,
+                        "value": [
+                            -3.52262806892395,
+                            136.95079040527345,
+                            8.514250755310059
+                        ]
+                    },
+                    {
+                        "index": 22,
+                        "value": [
+                            -3.494148015975952,
+                            136.7051239013672,
+                            8.528938293457032
+                        ]
+                    },
+                    {
+                        "index": 23,
+                        "value": [
+                            -5.040643215179443,
+                            136.54287719726563,
+                            7.684338092803955
+                        ]
+                    },
+                    {
+                        "index": 24,
+                        "value": [
+                            -5.0819292068481449,
+                            136.754638671875,
+                            7.660704135894775
+                        ]
+                    },
+                    {
+                        "index": 25,
+                        "value": [
+                            -6.2018561363220219,
+                            136.35411071777345,
+                            6.683019161224365
+                        ]
+                    },
+                    {
+                        "index": 26,
+                        "value": [
+                            -7.028536796569824,
+                            135.7181854248047,
+                            5.8268208503723148
+                        ]
+                    },
+                    {
+                        "index": 27,
+                        "value": [
+                            -6.968605041503906,
+                            135.60084533691407,
+                            5.8906660079956059
+                        ]
+                    },
+                    {
+                        "index": 28,
+                        "value": [
+                            -6.130874156951904,
+                            136.15538024902345,
+                            6.742920875549316
+                        ]
+                    },
+                    {
+                        "index": 29,
+                        "value": [
+                            -7.48449182510376,
+                            134.61256408691407,
+                            5.094223976135254
+                        ]
+                    },
+                    {
+                        "index": 30,
+                        "value": [
+                            2.0202419757843019,
+                            136.5659942626953,
+                            9.051218032836914
+                        ]
+                    },
+                    {
+                        "index": 31,
+                        "value": [
+                            3.5226290225982668,
+                            136.95079040527345,
+                            8.51424789428711
+                        ]
+                    },
+                    {
+                        "index": 32,
+                        "value": [
+                            3.494148015975952,
+                            136.7051239013672,
+                            8.528936386108399
+                        ]
+                    },
+                    {
+                        "index": 33,
+                        "value": [
+                            5.081930160522461,
+                            136.754638671875,
+                            7.660705089569092
+                        ]
+                    },
+                    {
+                        "index": 34,
+                        "value": [
+                            5.040643215179443,
+                            136.54286193847657,
+                            7.6843390464782719
+                        ]
+                    },
+                    {
+                        "index": 35,
+                        "value": [
+                            6.201858997344971,
+                            136.35409545898438,
+                            6.683015823364258
+                        ]
+                    },
+                    {
+                        "index": 36,
+                        "value": [
+                            6.1308770179748539,
+                            136.15536499023438,
+                            6.742918014526367
+                        ]
+                    },
+                    {
+                        "index": 37,
+                        "value": [
+                            7.028536796569824,
+                            135.7181854248047,
+                            5.826819896697998
+                        ]
+                    },
+                    {
+                        "index": 38,
+                        "value": [
+                            6.968605041503906,
+                            135.60084533691407,
+                            5.890665054321289
+                        ]
+                    },
+                    {
+                        "index": 39,
+                        "value": [
+                            7.4844889640808109,
+                            134.61256408691407,
+                            5.094226837158203
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart5_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 3,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 4,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart5_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 5,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 6,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 7,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 8,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 9,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Hip_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 10,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart5_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 11,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 12,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 13,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 14,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "KneePart1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 15,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart5_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 16,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 17,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 18,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 19,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "HipPart1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 20,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Hip_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 21,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 22,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 23,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 24,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 25,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 26,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 27,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 28,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 29,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 30,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 31,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 32,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 33,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 34,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 35,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Wrist_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 36,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart5_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 37,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 38,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 39,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 40,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 41,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Elbow_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 42,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 43,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 44,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 45,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 46,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Shoulder_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 47,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Scapula_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 48,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 49,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 50,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 51,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 52,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 53,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 54,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "IndexFinger1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 55,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 56,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 57,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ThumbFinger1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 58,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 59,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 60,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 61,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "MiddleFinger1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 62,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Wrist_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 63,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart5_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 64,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 65,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 66,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 67,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ElbowPart1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 68,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Elbow_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 69,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 70,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 71,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 72,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "ShoulderPart1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 73,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Shoulder_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 74,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Scapula_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 75,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Head_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 76,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.063484907
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.230434179
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.562205941
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.001596748
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.063484907
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.230434179
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.562205941
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.001596748
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.072300374
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.07230254665072292
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.1191107170170763
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.119108259
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.09763196069548748
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.10726032391390586
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.15598703665145015
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.25552252547568368
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.09763194613698552
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.10726019740145941
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.15598949933658819
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.2555225402781291
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.0025099899719040394
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.09765857363706826
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.06351185276690313
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.07243129882371043
+                    },
+                    {
+                        "index": 24,
+                        "value": 0.10738888263060667
+                    },
+                    {
+                        "index": 25,
+                        "value": 0.1560149599144109
+                    },
+                    {
+                        "index": 26,
+                        "value": 0.2552282306572313
+                    },
+                    {
+                        "index": 27,
+                        "value": 0.230434179
+                    },
+                    {
+                        "index": 28,
+                        "value": 0.11913629306164636
+                    },
+                    {
+                        "index": 29,
+                        "value": 0.562205941
+                    },
+                    {
+                        "index": 30,
+                        "value": 0.0025100304973964696
+                    },
+                    {
+                        "index": 31,
+                        "value": 0.09765861003332316
+                    },
+                    {
+                        "index": 32,
+                        "value": 0.0635118547043661
+                    },
+                    {
+                        "index": 33,
+                        "value": 0.10738904206981805
+                    },
+                    {
+                        "index": 34,
+                        "value": 0.07242909941827709
+                    },
+                    {
+                        "index": 35,
+                        "value": 0.1560127881365776
+                    },
+                    {
+                        "index": 36,
+                        "value": 0.11913410973229216
+                    },
+                    {
+                        "index": 37,
+                        "value": 0.25522837868168549
+                    },
+                    {
+                        "index": 38,
+                        "value": 0.230434179
+                    },
+                    {
+                        "index": 39,
+                        "value": 0.562205941
+                    }
+                ],
+                "size": 40,
+                "max": 39
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Chest_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 77,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Spine1Part2_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 78,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Spine1Part1_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 79,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Spine1_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 80,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Root_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 81,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 82,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 83,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "RingFinger3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 84,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "PinkyFinger3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 85,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Cup_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 86,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Cup_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 87,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain0_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 88,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 89,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 90,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 91,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 92,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain5_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 93,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain6_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 94,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain7_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 95,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain8_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 96,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain9_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 97,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain10_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 98,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 99,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 100,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 101,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 102,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain5_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 103,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain6_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 104,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain7_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 105,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain8_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 106,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain9_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 107,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain0_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 108,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 109,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 110,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 111,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 112,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain5_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 113,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain6_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 114,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain7_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 115,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain8_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 116,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain9_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 117,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLidMain10_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 118,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 119,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 120,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 121,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 122,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain5_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 123,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain6_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 124,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain7_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 125,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain8_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 126,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLidMain9_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 127,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint0_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 128,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 129,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 130,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 131,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 132,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "cornerLipJoint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 133,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint0_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 134,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint1_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 135,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint2_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 136,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint3_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 137,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint4_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 138,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 139,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 140,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 141,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "upperLipJoint4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 142,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "cornerLipJoint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 143,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint1_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 144,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint2_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 145,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint3_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 146,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "lowerLipJoint4_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 147,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowInnerJoint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 148,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 7,
+                        "value": 0.998403252
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.006465394052524567
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.997490010028096
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.006470435698448181
+                    }
+                ],
+                "size": 4,
+                "max": 21
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowInnerJoint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 149,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 3,
+                        "value": 0.998403252
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.006465396809028625
+                    },
+                    {
+                        "index": 30,
+                        "value": 0.9974899695026036
+                    },
+                    {
+                        "index": 31,
+                        "value": 0.006470442589708328
+                    }
+                ],
+                "size": 4,
+                "max": 31
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowMid1Joint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 150,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 0.906928427
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.4295238358657145
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.8692787790711595
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.4133381283029314
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.8692494202737738
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.9069036343499073
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.42946422369510237
+                    },
+                    {
+                        "index": 24,
+                        "value": 0.41327888560152739
+                    }
+                ],
+                "size": 8,
+                "max": 24
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowMid1Joint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 151,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.906928427
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.429524922
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.8692787630193293
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.41333846538927657
+                    },
+                    {
+                        "index": 31,
+                        "value": 0.8692493801441985
+                    },
+                    {
+                        "index": 32,
+                        "value": 0.9069036404896567
+                    },
+                    {
+                        "index": 33,
+                        "value": 0.41327886888382339
+                    },
+                    {
+                        "index": 34,
+                        "value": 0.429465322132072
+                    }
+                ],
+                "size": 8,
+                "max": 34
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowMid2Joint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 152,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 0.029586666
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.49077083900000009
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.4981736174835626
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.8359027229068468
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.026623880739330413
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.4794016742956092
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.7991703299907793
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.4745989610220101
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.02662157039070964
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.029584512883189644
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.49810447748118727
+                    },
+                    {
+                        "index": 24,
+                        "value": 0.47933223176786596
+                    },
+                    {
+                        "index": 25,
+                        "value": 0.7991448877862748
+                    },
+                    {
+                        "index": 26,
+                        "value": 0.4747886720686641
+                    },
+                    {
+                        "index": 27,
+                        "value": 0.49077083900000009
+                    },
+                    {
+                        "index": 28,
+                        "value": 0.835877248328437
+                    }
+                ],
+                "size": 16,
+                "max": 28
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowMid2Joint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 153,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.029586666
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.49077083900000009
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.498174704
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.835905055
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.026623879476154568
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.4794012106968176
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.7991726441857278
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.47459897056361946
+                    },
+                    {
+                        "index": 31,
+                        "value": 0.026621567232770029
+                    },
+                    {
+                        "index": 32,
+                        "value": 0.02958450480597729
+                    },
+                    {
+                        "index": 33,
+                        "value": 0.4793320890463586
+                    },
+                    {
+                        "index": 34,
+                        "value": 0.49810557844965089
+                    },
+                    {
+                        "index": 35,
+                        "value": 0.799146966518733
+                    },
+                    {
+                        "index": 36,
+                        "value": 0.8358793068458538
+                    },
+                    {
+                        "index": 37,
+                        "value": 0.4747885766525713
+                    },
+                    {
+                        "index": 38,
+                        "value": 0.49077083900000009
+                    }
+                ],
+                "size": 16,
+                "max": 38
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowOuterJoint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 154,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 5,
+                        "value": 0.278794982
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.437794059
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.04498656007607694
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.044840170672632548
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.2698784986998608
+                    },
+                    {
+                        "index": 25,
+                        "value": 0.044840152299314279
+                    },
+                    {
+                        "index": 26,
+                        "value": 0.26998309727410466
+                    },
+                    {
+                        "index": 27,
+                        "value": 0.278794982
+                    },
+                    {
+                        "index": 28,
+                        "value": 0.04498645860991668
+                    },
+                    {
+                        "index": 29,
+                        "value": 0.437794059
+                    }
+                ],
+                "size": 10,
+                "max": 29
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowOuterJoint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 155,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 0.278794982
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.437794059
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.044986686
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.044840319162822109
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.26987850396069698
+                    },
+                    {
+                        "index": 35,
+                        "value": 0.04484024534468937
+                    },
+                    {
+                        "index": 36,
+                        "value": 0.044986583421854017
+                    },
+                    {
+                        "index": 37,
+                        "value": 0.26998304466574338
+                    },
+                    {
+                        "index": 38,
+                        "value": 0.278794982
+                    },
+                    {
+                        "index": 39,
+                        "value": 0.437794059
+                    }
+                ],
+                "size": 10,
+                "max": 39
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "EyeBrowCenterJoint_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 156,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "JawJoint_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 157,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Neck_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 158,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "NeckPart1_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 159,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "NeckPart2_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 160,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "NeckPart3_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 161,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "NeckPart5_M",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 162,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Knee_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 163,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "Knee_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 164,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "CheekJoint_L",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 165,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster189",
+                "source": "CheekJoint_R",
+                "shape": "Kafka_Eyebrows_GeoShapeDeformed",
+                "layer": 166,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            }
+        ]
+    }
+}

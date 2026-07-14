@@ -1,0 +1,1546 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "G:\\My Drive\\Projects\\KafkaProj\\share\\Character\\Jacob\\Rig\\QuickData\\Skin/L_EyeCutIn_Crv.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "L_EyeCutIn_CrvShape",
+                "group": 0,
+                "stride": 3,
+                "size": 24,
+                "max": 24,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            1.4152659068406828,
+                            7.28533372244884,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            1.4152659071298977,
+                            6.161458010675304,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            1.415265906645761,
+                            5.303623279281354,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            1.4152659069081835,
+                            4.081285823444105,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            3.257455987443923,
+                            4.081285813527842,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            5.461543190922532,
+                            4.08128582905249,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            7.292269712782368,
+                            4.081285822806038,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "value": [
+                            9.181535850904295,
+                            4.081285823444105,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 8,
+                        "value": [
+                            9.181535849728892,
+                            5.404006563523893,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 9,
+                        "value": [
+                            9.181535851805295,
+                            6.227195309845484,
+                            12.011900085498923
+                        ]
+                    },
+                    {
+                        "index": 10,
+                        "value": [
+                            9.181535851426439,
+                            7.286790086695788,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 11,
+                        "value": [
+                            9.181535624893085,
+                            7.9655069867048529,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 12,
+                        "value": [
+                            9.181535850856909,
+                            8.643499744282054,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 13,
+                        "value": [
+                            9.181535850435268,
+                            9.675097693754822,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 14,
+                        "value": [
+                            9.18153585140661,
+                            10.482548986071379,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 15,
+                        "value": [
+                            9.181535850904272,
+                            11.84755576743872,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 16,
+                        "value": [
+                            7.346972878276219,
+                            11.847555756427213,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 17,
+                        "value": [
+                            5.468976037874129,
+                            11.847555767382076,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 18,
+                        "value": [
+                            3.2058558331879327,
+                            11.847555777086186,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 19,
+                        "value": [
+                            1.4152756697357348,
+                            11.847545948175224,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 20,
+                        "value": [
+                            1.4152659063113183,
+                            10.590133483162433,
+                            12.011900085498926
+                        ]
+                    },
+                    {
+                        "index": 21,
+                        "value": [
+                            1.4152659073768188,
+                            9.743910775296584,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 22,
+                        "value": [
+                            1.415265906940708,
+                            8.642043364250128,
+                            12.011900085498925
+                        ]
+                    },
+                    {
+                        "index": 23,
+                        "value": [
+                            1.415265444827977,
+                            7.96332241821051,
+                            12.011900085498925
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.0015668568113109286
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.02936868501259515
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.2634229829177989
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.46553367279017357
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.005570051251897011
+                    }
+                ],
+                "size": 5,
+                "max": 4
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 6,
+                        "value": 0.0083665053108221
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.9543927618343936
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.16239406134847454
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.021246739827361889
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.0010856192564158575
+                    }
+                ],
+                "size": 5,
+                "max": 10
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.02062959684311564
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.4231153871870344
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.6454151652900545
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.028395791063017735
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.003761460947090047
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.0010145755465482002
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.004332990836412104
+                    }
+                ],
+                "size": 7,
+                "max": 23
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 3,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.10175934333870068
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.006807827617496185
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.0010663801681781013
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.006312507906097255
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.04257772333403807
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.6847058852780059
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.46178444257574127
+                    }
+                ],
+                "size": 7,
+                "max": 23
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 4,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.00642763803044725
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.0011599400481773514
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.003439403966556382
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.0690398297606394
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.5178942982761486
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.18417701331950804
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.03350240457508163
+                    }
+                ],
+                "size": 7,
+                "max": 23
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 5,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 18,
+                        "value": 0.003445180965169632
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.3092392734479876
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.010868345110346824
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.0016333079059358534
+                    }
+                ],
+                "size": 4,
+                "max": 21
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 6,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 6,
+                        "value": 0.0035352158970800905
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.028218499518476576
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.7396950353925862
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.3565429398550421
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.020871082232718664
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.00420304196698041
+                    }
+                ],
+                "size": 6,
+                "max": 11
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 7,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 8,
+                        "value": 0.001232761894006396
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.007595009851167528
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.10025480613691358
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.46169899182270959
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.6822932458470553
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.052616491682140897
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.008754501220783726
+                    }
+                ],
+                "size": 7,
+                "max": 14
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 8,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 10,
+                        "value": 0.006636133912427528
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.03423528427971578
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.18873394027490607
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.5906445812279375
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.09723151037347218
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.003964953747541221
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.0012421337084884503
+                    }
+                ],
+                "size": 7,
+                "max": 16
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 9,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 13,
+                        "value": 0.002083850626152331
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.011873280448835308
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.4790740223657301
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.004552807039245394
+                    }
+                ],
+                "size": 4,
+                "max": 16
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 10,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 14,
+                        "value": 0.0020184192666519637
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.007653683804937616
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.5804874127366021
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.00506504677989164
+                    }
+                ],
+                "size": 4,
+                "max": 17
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part1_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 11,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 5,
+                        "value": 0.004977870117498132
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.5215159112833623
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.00938250264091859
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.002454475438552021
+                    }
+                ],
+                "size": 4,
+                "max": 8
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 12,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 13,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 14,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 15,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 16,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 17,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 18,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part4_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 19,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part6_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 20,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part5_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 21,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part7_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 22,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 23,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part5_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 24,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part7_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 25,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 26,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part4_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 27,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part6_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 28,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 29,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 30,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 31,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 32,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 33,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 34,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 35,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 36,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 37,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 38,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 39,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part1_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 40,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part2_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 41,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 42,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part3_R",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 43,
+                "defaultValue": 0.0,
+                "points": [],
+                "size": 0,
+                "max": 0
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part5_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 44,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 17,
+                        "value": 0.0035514193076053967
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.3339109462129736
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.0030677648606874947
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.0013351191499212869
+                    }
+                ],
+                "size": 4,
+                "max": 20
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 45,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 14,
+                        "value": 0.0013329674052658962
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.003359870440776921
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.3950027889197216
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.011426333836533279
+                    }
+                ],
+                "size": 4,
+                "max": 17
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part4_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 46,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 16,
+                        "value": 0.0026843654230655699
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.34180038115939567
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.0035349493079591747
+                    }
+                ],
+                "size": 3,
+                "max": 18
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 47,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 16,
+                        "value": 0.007306906944109903
+                    },
+                    {
+                        "index": 17,
+                        "value": 0.6355666819793101
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.0025094367928478126
+                    }
+                ],
+                "size": 3,
+                "max": 18
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part6_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 48,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 17,
+                        "value": 0.0025491123543805208
+                    },
+                    {
+                        "index": 18,
+                        "value": 0.6356747376804226
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.007729613617389468
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.0025967584506481078
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.0010406218162480497
+                    }
+                ],
+                "size": 5,
+                "max": 21
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidUpper1Part7_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 49,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 18,
+                        "value": 0.011639023463813682
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.3334054350937832
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.01160987664608467
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.0017592498421542089
+                    }
+                ],
+                "size": 4,
+                "max": 21
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 50,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 5,
+                        "value": 0.011842822947233017
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.4542585285512695
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.0038777541024881177
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.0014996970146947896
+                    }
+                ],
+                "size": 4,
+                "max": 8
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 51,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 0.0027284316968136255
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.6247976320813129
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.007912446892655224
+                    }
+                ],
+                "size": 3,
+                "max": 6
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part4_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 52,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 0.003868027381218007
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.35182391784006009
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.0032386953913234818
+                    }
+                ],
+                "size": 3,
+                "max": 6
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part6_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 53,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 2,
+                        "value": 0.002968704431585748
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.007518198560581115
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.5693672082716291
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.002515757828215482
+                    }
+                ],
+                "size": 4,
+                "max": 5
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part7_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 54,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 0.0026136298596521458
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.017755275276058258
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.4915988197661757
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.010312733288634444
+                    }
+                ],
+                "size": 4,
+                "max": 4
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidLower1Part5_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 55,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 2,
+                        "value": 0.001558829033688519
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.003546509250813954
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.4032736852843579
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.00401150489200612
+                    }
+                ],
+                "size": 4,
+                "max": 5
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 56,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 11,
+                        "value": 0.004372949172966028
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.020896125088802236
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.3286055313826809
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.7598908739910466
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.023900831645880764
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.003670580582018546
+                    }
+                ],
+                "size": 6,
+                "max": 16
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter2Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 57,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 13,
+                        "value": 0.016053927083758913
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.11755986804074469
+                    },
+                    {
+                        "index": 15,
+                        "value": 0.48195684733638496
+                    },
+                    {
+                        "index": 16,
+                        "value": 0.005014126415608367
+                    }
+                ],
+                "size": 4,
+                "max": 16
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 58,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 6,
+                        "value": 0.0011356792453354713
+                    },
+                    {
+                        "index": 7,
+                        "value": 0.004044347207416066
+                    },
+                    {
+                        "index": 8,
+                        "value": 0.08477549030678994
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.5641870248291833
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.18410492582131275
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.033326273523581539
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.0064054206449710919
+                    }
+                ],
+                "size": 7,
+                "max": 12
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidOuter1Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 59,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 8,
+                        "value": 0.00792768244547338
+                    },
+                    {
+                        "index": 9,
+                        "value": 0.048371547882053878
+                    },
+                    {
+                        "index": 10,
+                        "value": 0.6862204009158187
+                    },
+                    {
+                        "index": 11,
+                        "value": 0.46160136771776286
+                    },
+                    {
+                        "index": 12,
+                        "value": 0.09988528596333003
+                    },
+                    {
+                        "index": 13,
+                        "value": 0.007989425508246016
+                    },
+                    {
+                        "index": 14,
+                        "value": 0.0013186479151243798
+                    }
+                ],
+                "size": 7,
+                "max": 14
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 60,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 18,
+                        "value": 0.0040222846789768908
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.026556821418076718
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.6802472357215305
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.4018304184525629
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.020863392713196425
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.004199842555009114
+                    }
+                ],
+                "size": 6,
+                "max": 23
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner2Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 61,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 18,
+                        "value": 0.004055304321999986
+                    },
+                    {
+                        "index": 19,
+                        "value": 0.31650363695607466
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.21684758339621069
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.025064217814599895
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.00140517065281254
+                    }
+                ],
+                "size": 5,
+                "max": 22
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part2_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 62,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.18348406006658939
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.49610830027754768
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.061924359327961118
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.0033536294535116246
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.0010705629498241269
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.00634401794436254
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.033444569190334189
+                    }
+                ],
+                "size": 7,
+                "max": 23
+            },
+            {
+                "deformer": "skinCluster10",
+                "source": "EyelidInner1Part3_L",
+                "shape": "L_EyeCutIn_CrvShape",
+                "layer": 63,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 0.6851644544232045
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.03979634727751518
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.005868983535086693
+                    },
+                    {
+                        "index": 20,
+                        "value": 0.0011225479094442402
+                    },
+                    {
+                        "index": 21,
+                        "value": 0.007081483184026173
+                    },
+                    {
+                        "index": 22,
+                        "value": 0.10146077923791058
+                    },
+                    {
+                        "index": 23,
+                        "value": 0.461856062346538
+                    }
+                ],
+                "size": 7,
+                "max": 23
+            }
+        ]
+    }
+}
