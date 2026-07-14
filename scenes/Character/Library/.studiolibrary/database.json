@@ -1,0 +1,138 @@
+{
+    "../../Kafka": {
+        "name": "Kafka",
+        "path": "../../Kafka",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "Library",
+        "modified": 1769874600.888,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Kafka/KBA_Promote_Body.anim": {
+        "name": "KBA_Promote_Body.anim",
+        "path": "../../Kafka/KBA_Promote_Body.anim",
+        "type": ".anim",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1770221025.044,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Kafka/KBA_Promote_Eye.anim": {
+        "name": "KBA_Promote_Eye.anim",
+        "path": "../../Kafka/KBA_Promote_Eye.anim",
+        "type": ".anim",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1770220646.83,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Kafka/Kafka_Blocking.set": {
+        "name": "Kafka_Blocking.set",
+        "path": "../../Kafka/Kafka_Blocking.set",
+        "type": ".set",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1765426298.563,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Kafka/Kafka_Fecial.set": {
+        "name": "Kafka_Fecial.set",
+        "path": "../../Kafka/Kafka_Fecial.set",
+        "type": ".set",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1765353696.072,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Kafka/Key 12.pose": {
+        "name": "Key 12.pose",
+        "path": "../../Kafka/Key 12.pose",
+        "type": ".pose",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1769874396.969,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Kafka/Walk_v01.anim": {
+        "name": "Walk_v01.anim",
+        "path": "../../Kafka/Walk_v01.anim",
+        "type": ".anim",
+        "folder": "../../Kafka",
+        "category": "Kafka",
+        "modified": 1767717012.028,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash": {
+        "name": "Trash",
+        "path": "../../Trash",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "Library",
+        "modified": 1765426298.287,
+        "__class__": "studiolibrary.folderitem.FolderItem",
+        "icon": "trash.svg"
+    },
+    "../../Trash/KBA_Promote_Body.anim": {
+        "name": "KBA_Promote_Body.anim",
+        "path": "../../Trash/KBA_Promote_Body.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1770220581.906,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Kafka_Blocking (2).set": {
+        "name": "Kafka_Blocking (2).set",
+        "path": "../../Trash/Kafka_Blocking (2).set",
+        "type": ".set",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1765426298.279,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Trash/Kafka_Blocking.set": {
+        "name": "Kafka_Blocking.set",
+        "path": "../../Trash/Kafka_Blocking.set",
+        "type": ".set",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1765353656.009,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Trash/Walk_v01 (2).anim": {
+        "name": "Walk_v01 (2).anim",
+        "path": "../../Trash/Walk_v01 (2).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1767715290.788,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Walk_v01 (3).anim": {
+        "name": "Walk_v01 (3).anim",
+        "path": "../../Trash/Walk_v01 (3).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1767716179.734,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Walk_v01 (4).anim": {
+        "name": "Walk_v01 (4).anim",
+        "path": "../../Trash/Walk_v01 (4).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1767717008.672,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Walk_v01.anim": {
+        "name": "Walk_v01.anim",
+        "path": "../../Trash/Walk_v01.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1767713505.898,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    }
+}

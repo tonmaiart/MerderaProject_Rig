@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "natch",
+    "ctime": "1765353731",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "G:/My Drive/Projects/KafkaProj/publish/Character/Kafka/Rig/Proxy/v003/v003.ma",
+        "unresolved": "G:/My Drive/Projects/KafkaProj/publish/Character/Kafka/Rig/Proxy/v003/v003.ma",
+        "namespace": "Kafka_Rig_Proxy",
+        "node": "Kafka_Rig_ProxyRN"
+      }
+    ],
+    "mayaVersion": "2025",
+    "mayaSceneFile": "G:/My Drive/Projects/KafkaProj/share/Shot/KBA/KBA030/KBA030_Anim_Layout_v002.ma"
+  }
+,
+  "objects": {
+    "Kafka_Rig_Proxy:FKIKLeg_L": {},
+    "Kafka_Rig_Proxy:IKLeg_L": {},
+    "Kafka_Rig_Proxy:PoleLeg_L": {},
+    "Kafka_Rig_Proxy:FKHip_L": {},
+    "Kafka_Rig_Proxy:FKKnee_L": {},
+    "Kafka_Rig_Proxy:FKAnkle_L": {},
+    "Kafka_Rig_Proxy:FKToes_L": {},
+    "Kafka_Rig_Proxy:BendHip_L": {},
+    "Kafka_Rig_Proxy:BendMidKnee_L": {},
+    "Kafka_Rig_Proxy:BendKnee_L": {},
+    "Kafka_Rig_Proxy:BendKnee0_L": {},
+    "Kafka_Rig_Proxy:HipSwinger_M": {},
+    "Kafka_Rig_Proxy:FKChest_M": {},
+    "Kafka_Rig_Proxy:FKSpine1_M": {},
+    "Kafka_Rig_Proxy:FKHead_M": {},
+    "Kafka_Rig_Proxy:FKShoulder_L": {},
+    "Kafka_Rig_Proxy:FKElbow_L": {},
+    "Kafka_Rig_Proxy:FKWrist_L": {},
+    "Kafka_Rig_Proxy:PoleArm_L": {},
+    "Kafka_Rig_Proxy:IKArm_L": {},
+    "Kafka_Rig_Proxy:Fingers_L": {},
+    "Kafka_Rig_Proxy:FKScapula_L": {},
+    "Kafka_Rig_Proxy:RootX_M": {},
+    "Kafka_Rig_Proxy:FKIKArm_L": {},
+    "Kafka_Rig_Proxy:FKIKLeg_R": {},
+    "Kafka_Rig_Proxy:IKLeg_R": {},
+    "Kafka_Rig_Proxy:PoleLeg_R": {},
+    "Kafka_Rig_Proxy:FKHip_R": {},
+    "Kafka_Rig_Proxy:FKKnee_R": {},
+    "Kafka_Rig_Proxy:FKAnkle_R": {},
+    "Kafka_Rig_Proxy:FKToes_R": {},
+    "Kafka_Rig_Proxy:BendHip_R": {},
+    "Kafka_Rig_Proxy:BendMidKnee_R": {},
+    "Kafka_Rig_Proxy:BendKnee_R": {},
+    "Kafka_Rig_Proxy:BendKnee0_R": {},
+    "Kafka_Rig_Proxy:FKWrist_R": {},
+    "Kafka_Rig_Proxy:Fingers_R": {},
+    "Kafka_Rig_Proxy:IKArm_R": {},
+    "Kafka_Rig_Proxy:FKShoulder_R": {},
+    "Kafka_Rig_Proxy:FKElbow_R": {},
+    "Kafka_Rig_Proxy:PoleArm_R": {},
+    "Kafka_Rig_Proxy:FKIKArm_R": {},
+    "Kafka_Rig_Proxy:FKScapula_R": {},
+    "Kafka_Rig_Proxy:FKNeck_M": {},
+    "Kafka_Rig_Proxy:BendNeck_M": {}
+  }
+}

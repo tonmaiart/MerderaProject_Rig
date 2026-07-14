@@ -1,0 +1,146 @@
+# Apple ModelI/O MTL File: kafka_single.mtl
+
+newmtl Kafka_Eyebrows_GeoSG
+	map_Kd Kafka_Eyebrows_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Eyebrows_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_Eyebrows_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Tail_GeoSG
+	map_Kd Kafka_Tail_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Tail_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_Tail_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Body_GeoSG1
+	map_Kd Kafka_Body_GeoSG1-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Body_GeoSG1-metallic.png
+	specularTint 0
+	map_roughness Kafka_Body_GeoSG1-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Body_GeoSG2
+	map_Kd Kafka_Body_GeoSG2-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Body_GeoSG2-metallic.png
+	specularTint 0
+	map_roughness Kafka_Body_GeoSG2-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_HairTopKnot_GeoSG
+	map_Kd Kafka_HairTopKnot_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_HairTopKnot_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_HairTopKnot_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_ChestCloth_GeoSG
+	map_Kd Kafka_ChestCloth_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_ChestCloth_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_ChestCloth_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Iris_GeoSG1
+	map_Kd Kafka_Iris_GeoSG1-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Iris_GeoSG1-metallic.png
+	specularTint 0
+	map_roughness Kafka_Iris_GeoSG1-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Nail_GeoSG
+	map_Kd Kafka_Nail_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Nail_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_Nail_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Kafka_Eyeball_GeoSG
+	map_Kd Kafka_Eyeball_GeoSG-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Kafka_Eyeball_GeoSG-metallic.png
+	specularTint 0
+	map_roughness Kafka_Eyeball_GeoSG-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

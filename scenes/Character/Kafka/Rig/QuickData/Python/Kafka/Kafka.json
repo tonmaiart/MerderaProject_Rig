@@ -1,0 +1,13 @@
+{
+    "order": [
+        "Kafka",
+        "EyeSpecAim",
+        "ChinCtrlFollowJaw",
+        "LockFollowAttr",
+        "LockFollowAttrEb",
+        "Blendshapes",
+        "ConstraintEyeCrease",
+        "ConnectHairDynamics",
+        "AddHairDynamics"
+    ]
+}
