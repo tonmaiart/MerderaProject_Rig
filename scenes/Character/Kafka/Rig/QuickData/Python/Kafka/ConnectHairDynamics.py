@@ -12,7 +12,7 @@ from tmlib.core import (
     QuickData,
     System,
 )
-from tmlib.menu import General
+from UkoreMaya.menu import General
 
 import maya.cmds as mc
 import maya.cmds as cmds

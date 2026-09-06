@@ -12,6 +12,7 @@ from tmlib.core import (
     QuickData,
     System,
     Attribute,
+    Selection,
 )
 
 import maya.cmds as mc
@@ -19,7 +20,7 @@ import maya.api.OpenMaya as om
 
 System.reload_scripts()
 
-from tmlib.menu import General
+from UkoreMaya.menu import General
 
 
 @Misc.undoable_jump_point
@@ -165,7 +166,7 @@ def run():
         "lowerLip_L",
     ]
 
-    list_hide = Utility.get_both_side(list_hide)
+    list_hide = Selection.get_both_side(list_hide)
 
     for obj in list_hide:
         Utility.lock_attribute(obj, t=1, r=1, s=1)
@@ -188,7 +189,7 @@ def run():
         "lowerTeeth_M",
         "upperTeeth_M",
     ]
-    list_unlock = Utility.get_both_side(list_unlock)
+    list_unlock = Selection.get_both_side(list_unlock)
     mc.select(list_unlock)
     General.unlock_attribute()
     for obj in list_unlock:
@@ -242,7 +243,7 @@ def run():
     # Set Rotate Order for Arm Limb ,Leg
     # ------------------------------------
     list_yzx = ["FKShoulder_R", "FKElbow_R", "FKWrist_R"]
-    list_yzx = Utility.get_both_side(list_yzx)
+    list_yzx = Selection.get_both_side(list_yzx)
     Utility.set_rotate_order(list_yzx, "yzx")
 
     # -------------------------------
