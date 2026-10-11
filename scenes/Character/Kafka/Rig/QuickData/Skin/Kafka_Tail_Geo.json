@@ -1,7 +1,7 @@
 {
     "deformerWeight": {
         "headerInfo": {
-            "fileName": "G:\\My Drive\\Projects\\KafkaProj\\share\\Character\\Kafka\\Rig\\QuickData\\Skin/Kafka_Tail_Geo.json",
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/Kafka_Tail_Geo.json",
             "worldMatrix": [
                 1.0,
                 0.0,
@@ -760,7 +760,7 @@
                     {
                         "index": 91,
                         "value": [
-                            0.1837712973356247,
+                            0.18377099931240083,
                             86.47245788574219,
                             -80.82589721679688
                         ]
@@ -776,7 +776,7 @@
                     {
                         "index": 93,
                         "value": [
-                            0.17103129625320435,
+                            0.17103099822998048,
                             86.20691680908203,
                             -82.5483169555664
                         ]
@@ -816,7 +816,7 @@
                     {
                         "index": 98,
                         "value": [
-                            2.980232238769531e-7,
+                            0.0,
                             86.56834411621094,
                             -79.5152359008789
                         ]
@@ -824,7 +824,7 @@
                     {
                         "index": 99,
                         "value": [
-                            2.980232238769531e-7,
+                            0.0,
                             85.89916229248047,
                             -83.22781372070313
                         ]
@@ -6130,7 +6130,7 @@
         ],
         "weights": [
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail0_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 0,
@@ -6326,7 +6326,7 @@
                     },
                     {
                         "index": 140,
-                        "value": 0.9900837235857027
+                        "value": 0.9900837211714055
                     },
                     {
                         "index": 141,
@@ -6873,7 +6873,7 @@
                 "max": 321
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail1_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 1,
@@ -7177,7 +7177,7 @@
                     },
                     {
                         "index": 140,
-                        "value": 0.009916276414297342
+                        "value": 0.009916278828594539
                     },
                     {
                         "index": 144,
@@ -7856,7 +7856,7 @@
                 "max": 680
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail2_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 2,
@@ -8919,7 +8919,7 @@
                 "max": 681
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail3_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 3,
@@ -9874,7 +9874,7 @@
                 "max": 681
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail4_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 4,
@@ -10925,7 +10925,7 @@
                 "max": 681
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail5_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 5,
@@ -11944,7 +11944,7 @@
                 "max": 681
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail6_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 6,
@@ -12959,7 +12959,7 @@
                 "max": 643
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail7_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 7,
@@ -13794,7 +13794,7 @@
                 "max": 648
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail8_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 8,
@@ -14629,7 +14629,7 @@
                 "max": 649
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail9_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 9,
@@ -15396,7 +15396,7 @@
                 "max": 725
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail10_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 10,
@@ -16111,7 +16111,7 @@
                 "max": 726
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail11_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 11,
@@ -16826,7 +16826,7 @@
                 "max": 761
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail12_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 12,
@@ -17517,7 +17517,7 @@
                 "max": 761
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail13_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 13,
@@ -18200,7 +18200,7 @@
                 "max": 761
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail14_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 14,
@@ -18759,7 +18759,7 @@
                 "max": 761
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail15_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 15,
@@ -19190,7 +19190,7 @@
                 "max": 761
             },
             {
-                "deformer": "skinCluster178",
+                "deformer": "skinCluster220",
                 "source": "Tail16_M",
                 "shape": "Kafka_Tail_GeoShapeDeformed",
                 "layer": 16,

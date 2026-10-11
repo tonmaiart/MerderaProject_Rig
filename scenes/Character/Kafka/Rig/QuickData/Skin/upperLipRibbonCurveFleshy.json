@@ -1,0 +1,186 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/upperLipRibbonCurveFleshy.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "upperLipRibbonCurveFleshyShape",
+                "group": 0,
+                "stride": 3,
+                "size": 7,
+                "max": 7,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            -1.963600039482118,
+                            126.49221039709026,
+                            8.663100244941408
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            -1.9469523840616697,
+                            126.4924198480532,
+                            8.878077428574852
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            -0.8825836345011408,
+                            126.49201922095142,
+                            9.141972557466448
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            -2.7075429798028536e-15,
+                            126.49235314057,
+                            9.721186292184877
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            0.8825836345011437,
+                            126.49201922095145,
+                            9.141972557466465
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            1.9469523840616634,
+                            126.49241984805326,
+                            8.878077428574838
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            1.9636000394821154,
+                            126.49221039709035,
+                            8.663100244941404
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "upperLipRibbonCurveFleshySC",
+                "source": "LipJointFleshy_R",
+                "shape": "upperLipRibbonCurveFleshyShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.67
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.1
+                    }
+                ],
+                "size": 3,
+                "max": 2
+            },
+            {
+                "deformer": "upperLipRibbonCurveFleshySC",
+                "source": "LipJointFleshy_L",
+                "shape": "upperLipRibbonCurveFleshyShape",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 0.1
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.67
+                    },
+                    {
+                        "index": 6,
+                        "value": 1.0
+                    }
+                ],
+                "size": 3,
+                "max": 6
+            },
+            {
+                "deformer": "upperLipRibbonCurveFleshySC",
+                "source": "upperLipJointFleshy_R",
+                "shape": "upperLipRibbonCurveFleshyShape",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 0.32999999999999998
+                    },
+                    {
+                        "index": 2,
+                        "value": 0.9
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.5
+                    }
+                ],
+                "size": 3,
+                "max": 3
+            },
+            {
+                "deformer": "upperLipRibbonCurveFleshySC",
+                "source": "upperLipJointFleshy_L",
+                "shape": "upperLipRibbonCurveFleshyShape",
+                "layer": 3,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 3,
+                        "value": 0.5
+                    },
+                    {
+                        "index": 4,
+                        "value": 0.9
+                    },
+                    {
+                        "index": 5,
+                        "value": 0.32999999999999998
+                    }
+                ],
+                "size": 3,
+                "max": 5
+            }
+        ]
+    }
+}

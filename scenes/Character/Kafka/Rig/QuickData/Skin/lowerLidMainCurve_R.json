@@ -1,0 +1,145 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/lowerLidMainCurve_R.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "lowerLidMainCurve_RShape",
+                "group": 0,
+                "stride": 3,
+                "size": 8,
+                "max": 8,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            -2.055398941,
+                            131.76594539999997,
+                            7.339663982
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            -2.056614695551544,
+                            131.18150057363935,
+                            7.381670001032194
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            -2.7905591184457259,
+                            130.85262823660828,
+                            7.197404149060535
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            -4.331080360973987,
+                            130.3067934344236,
+                            7.018966833445585
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            -5.513220252456705,
+                            130.516668155005,
+                            6.348488644308691
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            -6.3829853853575388,
+                            131.37353465157126,
+                            5.275561095079124
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            -6.686072014641063,
+                            132.28239864420164,
+                            5.205863465033635
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "value": [
+                            -6.821702003,
+                            132.7569275,
+                            5.171710968
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "lowerLidMainSC_R",
+                "source": "EyeRegionJoint_R",
+                "shape": "lowerLidMainCurve_RShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 1,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 2,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 3,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 4,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 5,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 6,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 7,
+                        "value": 1.0
+                    }
+                ],
+                "size": 8,
+                "max": 7
+            }
+        ]
+    }
+}

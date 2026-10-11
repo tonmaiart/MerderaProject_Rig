@@ -1,13 +1,9 @@
 {
     "order": [
         "Kafka",
-        "EyeSpecAim",
-        "ChinCtrlFollowJaw",
-        "LockFollowAttr",
-        "LockFollowAttrEb",
-        "Blendshapes",
-        "ConstraintEyeCrease",
-        "ConnectHairDynamics",
-        "AddHairDynamics"
+        "transfer_eyelash_blink"
+    ],
+    "muted": [
+        "transfer_eyelash_blink"
     ]
 }

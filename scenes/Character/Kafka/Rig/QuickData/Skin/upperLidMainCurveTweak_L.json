@@ -1,0 +1,208 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/upperLidMainCurveTweak_L.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "upperLidMainCurveTweak_LShape",
+                "group": 0,
+                "stride": 3,
+                "size": 8,
+                "max": 8,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            2.055398940999999,
+                            131.76594540000003,
+                            7.339663982
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            2.0826513700707967,
+                            132.28877053813393,
+                            7.366254255632357
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            2.128576587740768,
+                            133.4716210241766,
+                            7.4398302386749439
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            3.2193485185088965,
+                            134.8155937205113,
+                            7.375300749599734
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            4.946780923738792,
+                            134.69450536109413,
+                            6.709977038421485
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            6.14635182381126,
+                            134.29494520012029,
+                            5.755316655138875
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            6.634763937291562,
+                            133.19927560397304,
+                            5.31308761507363
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "value": [
+                            6.8217020029999999,
+                            132.7569275,
+                            5.171710968000001
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "outerLidJoint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 6,
+                        "value": 0.6699999999999999
+                    },
+                    {
+                        "index": 7,
+                        "value": 1.0
+                    }
+                ],
+                "size": 2,
+                "max": 7
+            },
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "innerLidJoint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.6699999999999999
+                    }
+                ],
+                "size": 2,
+                "max": 1
+            },
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "upperLid1Joint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 0.33
+                    },
+                    {
+                        "index": 2,
+                        "value": 1.0
+                    }
+                ],
+                "size": 2,
+                "max": 2
+            },
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "upperLid2Joint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 3,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 3,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 3
+            },
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "upperLid3Joint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 4,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 4
+            },
+            {
+                "deformer": "upperLidMainCurveTweakSC_L",
+                "source": "upperLid4Joint_L",
+                "shape": "upperLidMainCurveTweak_LShape",
+                "layer": 5,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 5,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 6,
+                        "value": 0.33
+                    }
+                ],
+                "size": 2,
+                "max": 6
+            }
+        ]
+    }
+}

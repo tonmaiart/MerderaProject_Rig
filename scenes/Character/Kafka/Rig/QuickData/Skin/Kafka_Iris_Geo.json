@@ -1,7 +1,7 @@
 {
     "deformerWeight": {
         "headerInfo": {
-            "fileName": "G:\\My Drive\\Projects\\KafkaProj\\share\\Character\\Kafka\\Rig\\QuickData\\Skin/Kafka_Iris_Geo.json",
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/Kafka_Iris_Geo.json",
             "worldMatrix": [
                 1.0,
                 0.0,
@@ -690,7 +690,7 @@
         ],
         "weights": [
             {
-                "deformer": "skinCluster188",
+                "deformer": "skinCluster224",
                 "source": "PupilJoint_L",
                 "shape": "Kafka_Iris_GeoShapeDeformed",
                 "layer": 0,
@@ -785,7 +785,7 @@
                 "max": 80
             },
             {
-                "deformer": "skinCluster188",
+                "deformer": "skinCluster224",
                 "source": "IrisJoint_L",
                 "shape": "Kafka_Iris_GeoShapeDeformed",
                 "layer": 1,
@@ -876,7 +876,7 @@
                 "max": 19
             },
             {
-                "deformer": "skinCluster188",
+                "deformer": "skinCluster224",
                 "source": "PupilJoint_R",
                 "shape": "Kafka_Iris_GeoShapeDeformed",
                 "layer": 2,
@@ -971,7 +971,7 @@
                 "max": 81
             },
             {
-                "deformer": "skinCluster188",
+                "deformer": "skinCluster224",
                 "source": "IrisJoint_R",
                 "shape": "Kafka_Iris_GeoShapeDeformed",
                 "layer": 3,

@@ -1,0 +1,291 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/lowerLipRibbonCurve.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "lowerLipRibbonCurveShape",
+                "group": 0,
+                "stride": 3,
+                "size": 11,
+                "max": 11,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            -1.963600039,
+                            126.4922104,
+                            8.663100243
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            -1.957303047,
+                            126.4922104,
+                            8.661922455
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            -1.791389942,
+                            126.4922104,
+                            8.72735405
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            -1.177535057,
+                            126.4922104,
+                            8.983694076999999
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            -0.5123770237,
+                            126.4922104,
+                            9.242229462
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "value": [
+                            2.6801549250000003e-28,
+                            126.4922028,
+                            9.377283096
+                        ]
+                    },
+                    {
+                        "index": 6,
+                        "value": [
+                            0.5123770237,
+                            126.4922104,
+                            9.242229462
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "value": [
+                            1.177535057,
+                            126.4922104,
+                            8.983694076999999
+                        ]
+                    },
+                    {
+                        "index": 8,
+                        "value": [
+                            1.791389942,
+                            126.4922104,
+                            8.72735405
+                        ]
+                    },
+                    {
+                        "index": 9,
+                        "value": [
+                            1.957303047,
+                            126.4922104,
+                            8.661922455
+                        ]
+                    },
+                    {
+                        "index": 10,
+                        "value": [
+                            1.963600039,
+                            126.4922104,
+                            8.663100243
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint0_M",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 5,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 5
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint1_L",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 6,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 6
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint1_R",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 4,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 4
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint2_L",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 3,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 7,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 7
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint2_R",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 4,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 3,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 3
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint3_L",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 5,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 8,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 8
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint3_R",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 6,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 2,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 2
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint4_L",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 7,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 9,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 9
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "lowerLipJoint4_R",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 8,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 1
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "cornerLipJoint_R",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 9,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 0
+            },
+            {
+                "deformer": "lowerLipRibbonCurveSC",
+                "source": "cornerLipJoint_L",
+                "shape": "lowerLipRibbonCurveShape",
+                "layer": 10,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 10,
+                        "value": 1.0
+                    }
+                ],
+                "size": 1,
+                "max": 10
+            }
+        ]
+    }
+}

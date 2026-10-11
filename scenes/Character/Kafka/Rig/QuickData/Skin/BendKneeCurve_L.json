@@ -1,0 +1,139 @@
+{
+    "deformerWeight": {
+        "headerInfo": {
+            "fileName": "C:\\Tonmai\\FileWorkspace\\storage\\MerderaProject\\RigTeam\\scenes\\Character\\Kafka\\Rig\\QuickData\\Skin/BendKneeCurve_L.json",
+            "worldMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        },
+        "shapes": [
+            {
+                "name": "BendKneeCurve_LShape",
+                "group": 0,
+                "stride": 3,
+                "size": 5,
+                "max": 5,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": [
+                            9.304388948999998,
+                            47.80023193000001,
+                            -0.25392264129999977
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "value": [
+                            9.30438998233334,
+                            41.51676430947919,
+                            -0.6666741337744295
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "value": [
+                            9.30439204900001,
+                            28.949829099999897,
+                            -1.4921771166500058
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "value": [
+                            9.304394115666663,
+                            16.382893890520966,
+                            -2.3176800995255606
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "value": [
+                            9.304395148999998,
+                            10.099426270000003,
+                            -2.730431592
+                        ]
+                    }
+                ]
+            }
+        ],
+        "weights": [
+            {
+                "deformer": "BendKneeSC_L",
+                "source": "BendKneeStart_L",
+                "shape": "BendKneeCurve_LShape",
+                "layer": 0,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 0,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 1,
+                        "value": 0.6
+                    }
+                ],
+                "size": 2,
+                "max": 1
+            },
+            {
+                "deformer": "BendKneeSC_L",
+                "source": "BendKneeMid_L",
+                "shape": "BendKneeCurve_LShape",
+                "layer": 1,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 1,
+                        "value": 0.4
+                    },
+                    {
+                        "index": 2,
+                        "value": 1.0
+                    },
+                    {
+                        "index": 3,
+                        "value": 0.4
+                    }
+                ],
+                "size": 3,
+                "max": 3
+            },
+            {
+                "deformer": "BendKneeSC_L",
+                "source": "BendKneeEnd_L",
+                "shape": "BendKneeCurve_LShape",
+                "layer": 2,
+                "defaultValue": 0.0,
+                "points": [
+                    {
+                        "index": 3,
+                        "value": 0.6
+                    },
+                    {
+                        "index": 4,
+                        "value": 1.0
+                    }
+                ],
+                "size": 2,
+                "max": 4
+            }
+        ]
+    }
+}

@@ -1,4 +1,4 @@
-import pymel.core as pm
+import pymeltm.core as pm
 from tmlib.core import (
     BlendShape,
     Connection,
@@ -23,58 +23,250 @@ System.reload_scripts()
 from UkoreMaya.menu import General
 
 
-@Misc.undoable_jump_point
 def run():
-    # =====================
-    # Add Foot Ik Attribute
-    # =====================
+    def build_skirt_rig():
+        # -------------------------------
+        # Set-up Skirt Rig
+        # ================================
 
-    try:
-        mc.addAttr("IKLeg_L", ln="toeRoll", min=0, max=90, k=1)
-        mc.connectAttr("IKLeg_L.toeRoll", "RollToesEnd_L.rx")
+        list_config = [
+            {
+                "skirt_grp": "FKExtraSkirtA1_L",
+                "leg": "L",
+                "axis": "z",
+                "invert_collision": True,
+                "invert_direction": True,
+                "intensity": 0.7,
+            },
+            {
+                "skirt_grp": "FKExtraSkirtB1_L",
+                "leg": "L",
+                "axis": "y",
+                "invert_collision": False,
+                "invert_direction": True,
+                "intensity": 0.8,
+            },
+            {
+                "skirt_grp": "FKExtraSkirtC1_L",
+                "leg": "L",
+                "axis": "z",
+                "invert_collision": False,
+                "invert_direction": True,
+                "intensity": 0.8,
+            },
+            {
+                "skirt_grp": "FKExtraSkirtA1_R",
+                "leg": "R",
+                "axis": "z",
+                "invert_collision": True,
+                "invert_direction": True,
+                "intensity": 0.7,
+            },
+            {
+                "skirt_grp": "FKExtraSkirtB1_R",
+                "leg": "R",
+                "axis": "y",
+                "invert_collision": True,
+                "invert_direction": True,
+                "intensity": 0.8,
+            },
+            {
+                "skirt_grp": "FKExtraSkirtC1_R",
+                "leg": "R",
+                "axis": "z",
+                "invert_collision": False,
+                "invert_direction": True,
+                "intensity": 0.8,
+            },
+        ]
 
-        mc.addAttr("IKLeg_L", ln="toeSpin", min=-90, max=90, k=1)
-        mc.connectAttr("IKLeg_L.toeSpin", "RollToesEnd_L.ry")
+        # world vector per leg, created only when a skirt on that side still
+        # needs it (avoids piling up Hip_*_vecPointA locators on re-run)
+        dict_leg_data = {}
 
-        mc.addAttr("IKLeg_L", ln="heelRoll", min=-90, max=0, k=1)
-        mc.connectAttr("IKLeg_L.heelRoll", "RollHeel_L.rx")
+        for dict_config in list_config:
+            skirt_grp = dict_config["skirt_grp"]
+            side = dict_config["leg"]
+            axis = dict_config["axis"]
+            invert_collision = dict_config["invert_collision"]
+            invert_direction = dict_config["invert_direction"]
+            intensity = dict_config["intensity"]
 
-        mc.addAttr("IKLeg_L", ln="heelSpin", min=-90, max=90, k=1)
-        mc.connectAttr("IKLeg_L.heelSpin", "RollHeel_L.ry")
+            attr_output = "{}.rz".format(skirt_grp)
 
-        mc.addAttr("IKLeg_L", ln="toeX", k=1)
-        mc.addAttr("IKLeg_L", ln="toeY", k=1)
-        mc.addAttr("IKLeg_L", ln="toeZ", k=1)
+            if Attribute.is_attr_connected(attr_output):
+                continue
 
-        mc.connectAttr("IKLeg_L.toeX", "IKToes_L.rx")
-        mc.connectAttr("IKLeg_L.toeY", "IKToes_L.ry")
-        mc.connectAttr("IKLeg_L.toeZ", "IKToes_L.rz")
+            if side not in dict_leg_data:
+                dict_leg_data[side] = Create.create_world_vector(
+                    "Hip_{}".format(side), "HipPart1_{}".format(side)
+                )
+            leg_data = dict_leg_data[side]
 
-        #
+            Create.create_skirt_auto_rot_simple(
+                leg_data=leg_data,
+                skirtA="Root_M",
+                attr_output=attr_output,
+                axis=axis,
+                invert_collision=invert_collision,
+                invert_direction=invert_direction,
+                intensity=intensity,
+            )
 
-        mc.addAttr("IKLeg_R", ln="toeRoll", min=0, max=90, k=1)
-        mc.connectAttr("IKLeg_R.toeRoll", "RollToesEnd_R.rx")
+        mc.parentConstraint(
+            "FKExtraSkirtA1_R", "FKExtraSkirtA1_L", "FKExtraSkirtFront1_M", mo=True
+        )
+        mc.parentConstraint(
+            "FKExtraSkirtC1_R", "FKExtraSkirtC1_L", "FKExtraSkirtBack1_M", mo=True
+        )
 
-        mc.addAttr("IKLeg_R", ln="toeSpin", min=-90, max=90, k=1)
-        mc.connectAttr("IKLeg_R.toeSpin", "RollToesEnd_R.ry")
 
-        mc.addAttr("IKLeg_R", ln="heelRoll", min=-90, max=0, k=1)
-        mc.connectAttr("IKLeg_R.heelRoll", "RollHeel_R.rx")
+    def lock_facial_ctrl_attribute():
+        list_follow_attr = [
+            ["Lip_R.followJawFollow_R", 5],
+            ["Lip_L.followJawFollow_L", 5],
+            ["upperLip_M.followJawFollow_M", 0],
+            ["lowerLip_M.followJawFollow_M", 10],
+            ["Cheek_R.followJawFollow_R", 5],
+            ["Cheek_L.followJawFollow_L", 5],
+            ["lowerTeeth_M.followJawFollow_M", 10],
+            ["Tongue0_M.followJawFollow_M", 10],
+            ["upperLip_M.fractionMode", 10],
+            ["lowerLip_M.fractionMode", 10],
+            ["EyeBrowMid1_L.followEyeBrowInner_L", 3],
+            ["EyeBrowMid2_L.followEyeBrowOuter_L", 3],
+            ["EyeBrowMid1_R.followEyeBrowInner_R", 3],
+            ["EyeBrowMid2_R.followEyeBrowOuter_R", 3],
+        ]
 
-        mc.addAttr("IKLeg_R", ln="heelSpin", min=-90, max=90, k=1)
-        mc.connectAttr("IKLeg_R.heelSpin", "RollHeel_R.ry")
+        for pair in list_follow_attr:
+            attr, value = pair
 
-        mc.addAttr("IKLeg_R", ln="toeX", k=1)
-        mc.addAttr("IKLeg_R", ln="toeY", k=1)
-        mc.addAttr("IKLeg_R", ln="toeZ", k=1)
+            try:
+                mc.setAttr(attr, value)
+                mc.setAttr(attr, l=1, k=0)
+            except:
+                pass
 
-        mc.connectAttr("IKLeg_R.toeX", "IKToes_R.rx")
-        mc.connectAttr("IKLeg_R.toeY", "IKToes_R.ry")
-        mc.connectAttr("IKLeg_R.toeZ", "IKToes_R.rz")
+        return
 
-    except:
-        pass
 
+    def parent_extra_chin_dtl_ctrl():
+        group_parent_name= "JawParent"
+
+        if mc.objExists(group_parent_name):
+            return
+        
+        list_group_chin = ['FKOffsetJawChinDtl_M', 'FKOffsetJawLineDtl_R', 'FKOffsetJawLineDtl_L']
+
+        mc.group(em=True,n=group_parent_name,p="FKXHead_M")
+        mc.matchTransform(group_parent_name,list_group_chin[0])
+        
+        mc.parentConstraint("Jaw_M",group_parent_name,mo=True)
+        mc.parent(list_group_chin,group_parent_name)
+        
+        return
+
+        
+    def add_eyelashes_blendshape():
+        # Add Eyelashes Blend Shape
+        blend_shape_node = "eyelashes_bsn"
+
+        if not mc.objExists(blend_shape_node):
+            node_bsn = mc.blendShape(
+                "BlinkUp_L",
+                "BlinkUp_R",
+                "BlinkLow_L",
+                "BlinkLow_R",
+                "Kafka_Eyelashes_Geo",
+                at=True,
+            )[0]
+
+            mc.rename(node_bsn, blend_shape_node)
+            node_bsn = blend_shape_node
+
+            # connect attr
+            Connection.connect_conversion(
+                "upperLid_L.ty", conversion=-0.5, output=node_bsn + ".BlinkUp_L", clamp=1
+            )
+            Connection.connect_conversion(
+                "lowerLid_L.ty", conversion=1, output=node_bsn + ".BlinkLow_L", clamp=1
+            )
+
+            Connection.connect_conversion(
+                "upperLid_R.ty", conversion=-0.5, output=node_bsn + ".BlinkUp_R", clamp=1
+            )
+            Connection.connect_conversion(
+                "lowerLid_R.ty", conversion=1, output=node_bsn + ".BlinkLow_R", clamp=1
+            )
+
+        return
+
+    def eye_spec_aim():
+        # constarint parent and craete group for eye spec aim
+        
+        for side in ["L","R"]:
+            group_parent_name= "EyeSpecParent_{}".format(side)
+
+            if mc.objExists(group_parent_name):
+                continue
+            
+            list_group_eyespec_offset = [f"FKOffsetEyeSpec{i+1}_{side}" for i in range(3)]
+
+            mc.group(em=True,n=group_parent_name,p="FKXHead_M")
+            mc.matchTransform(group_parent_name,list_group_eyespec_offset[0])
+            
+            mc.parentConstraint("EyeJoint_{}".format(side),group_parent_name,mo=True)
+            mc.parent(list_group_eyespec_offset,group_parent_name)
+        return
+
+    def simplifly_foot_ik_attributes():
+        try:
+            mc.addAttr("IKLeg_L", ln="toeRoll", min=0, max=90, k=1)
+            mc.connectAttr("IKLeg_L.toeRoll", "RollToesEnd_L.rx")
+
+            mc.addAttr("IKLeg_L", ln="toeSpin", min=-90, max=90, k=1)
+            mc.connectAttr("IKLeg_L.toeSpin", "RollToesEnd_L.ry")
+
+            mc.addAttr("IKLeg_L", ln="heelRoll", min=-90, max=0, k=1)
+            mc.connectAttr("IKLeg_L.heelRoll", "RollHeel_L.rx")
+
+            mc.addAttr("IKLeg_L", ln="heelSpin", min=-90, max=90, k=1)
+            mc.connectAttr("IKLeg_L.heelSpin", "RollHeel_L.ry")
+
+            mc.addAttr("IKLeg_L", ln="toeX", k=1)
+            mc.addAttr("IKLeg_L", ln="toeY", k=1)
+            mc.addAttr("IKLeg_L", ln="toeZ", k=1)
+
+            mc.connectAttr("IKLeg_L.toeX", "IKToes_L.rx")
+            mc.connectAttr("IKLeg_L.toeY", "IKToes_L.ry")
+            mc.connectAttr("IKLeg_L.toeZ", "IKToes_L.rz")
+
+            mc.addAttr("IKLeg_R", ln="toeRoll", min=0, max=90, k=1)
+            mc.connectAttr("IKLeg_R.toeRoll", "RollToesEnd_R.rx")
+
+            mc.addAttr("IKLeg_R", ln="toeSpin", min=-90, max=90, k=1)
+            mc.connectAttr("IKLeg_R.toeSpin", "RollToesEnd_R.ry")
+
+            mc.addAttr("IKLeg_R", ln="heelRoll", min=-90, max=0, k=1)
+            mc.connectAttr("IKLeg_R.heelRoll", "RollHeel_R.rx")
+
+            mc.addAttr("IKLeg_R", ln="heelSpin", min=-90, max=90, k=1)
+            mc.connectAttr("IKLeg_R.heelSpin", "RollHeel_R.ry")
+
+            mc.addAttr("IKLeg_R", ln="toeX", k=1)
+            mc.addAttr("IKLeg_R", ln="toeY", k=1)
+            mc.addAttr("IKLeg_R", ln="toeZ", k=1)
+
+            mc.connectAttr("IKLeg_R.toeX", "IKToes_R.rx")
+            mc.connectAttr("IKLeg_R.toeY", "IKToes_R.ry")
+            mc.connectAttr("IKLeg_R.toeZ", "IKToes_R.rz")
+
+        except:
+            pass
+
+    # simplifly_foot_ik_attributes()
+    
     # spine ik
     mc.setAttr("IKSpine3_M.v", 0)
     Utility.lock_attribute("IKSpine3_M", r=1, s=1, t=1)
@@ -107,6 +299,12 @@ def run():
 
     # hide and lock list
     list_hide = [
+
+        # Fingers
+"Fingers_L",
+        'FKOffsetMiddleFinger1_L', 'FKOffsetThumbFinger1_L', 'FKOffsetIndexFinger1_L', 'FKOffsetCup_L',
+        # Facial
+        "ctrlBoxOffset",
         "EyeRegion_R",
         "ctrlEye_R",
         "ctrlNose_R",
@@ -159,11 +357,13 @@ def run():
         "RollToes_L",
         "BendHip0_L",
         "BendNeck0_M",
-        "FKHairBase_M",
         "FKTailWorld_M",
         "CheekBone_R",
         "upperLip_L",
         "lowerLip_L",
+        "middleFace_M",
+        "upperFace_M",
+        "lowerFace_M",
     ]
 
     list_hide = Selection.get_both_side(list_hide)
@@ -200,15 +400,6 @@ def run():
     Utility.lock_attribute("FKTailWorld_M", t=1, r=1, s=1, v=1)
 
     # ==============================
-    # Connect Hair Global Attribute
-    # ==============================
-
-    if not Attribute.is_attr_exists("FKIKSpline_M.Global"):
-        mc.addAttr("FKIKSpline_M", ln="Global", dv=10, k=1, min=0, max=10)
-
-    mc.connectAttr("FKIKSpline_M.Global", "FKHairBase_M.Global", f=True)
-
-    # ==============================
     # Connect Tail Global Attribute
     # ==============================
 
@@ -217,28 +408,6 @@ def run():
 
     mc.connectAttr("FKIKSplineTailB_M.Global", "FKTailWorld_M.Global", f=True)
 
-    # ==============================
-    # Connect Gum Top
-    # ==============================
-
-    if not Attribute.is_attr_exists("upperTeeth_M.GumVis"):
-        mc.addAttr("upperTeeth_M", ln="GumVis", k=1, dv=1, at="enum", en="Hide:Show")
-
-    mc.connectAttr(
-        "upperTeeth_M.GumVis", "Kafka_Model_Proxy:Kafka_GumTop_Geo.v", f=True
-    )
-
-    # ==============================
-    # Connect Gum Low
-    # ==============================
-
-    if not Attribute.is_attr_exists("lowerTeeth_M.GumVis"):
-        mc.addAttr("lowerTeeth_M", ln="GumVis", k=1, dv=1, at="enum", en="Hide:Show")
-
-    mc.connectAttr(
-        "lowerTeeth_M.GumVis", "Kafka_Model_Proxy:Kafka_GumBottom_Geo.v", f=True
-    )
-
     # ------------------------------------
     # Set Rotate Order for Arm Limb ,Leg
     # ------------------------------------
@@ -246,120 +415,79 @@ def run():
     list_yzx = Selection.get_both_side(list_yzx)
     Utility.set_rotate_order(list_yzx, "yzx")
 
-    # -------------------------------
-    # Set-up Skirt Rig
-    # ================================
+    # eye spec vis : AimEye_M.<side>_Spec<i> drives joint scale and
+    # controller shape visibility per spec (Hide = 0, Show = 1)
+    for side in "LR":
+        for i in range(1, 4):
+            attr_name = "{}_Spec{}".format(side, i)
+            vis_attr = "AimEye_M.{}".format(attr_name)
 
-    # create world vector
-    leg_l_data = Create.create_world_vector("Hip_L", "HipPart1_L")
-    leg_r_data = Create.create_world_vector("Hip_R", "HipPart1_R")
+            if Attribute.is_attr_exists(vis_attr):
+                continue
 
-    list_config = [
-        {
-            "skirt_grp": "FKExtraSkirtA1_L",
-            "leg_data": leg_l_data,
-            "axis": "z",
-            "invert_collision": True,
-            "invert_direction": True,
-            "intensity": 0.7,
-        },
-        {
-            "skirt_grp": "FKExtraSkirtB1_L",
-            "leg_data": leg_l_data,
-            "axis": "y",
-            "invert_collision": False,
-            "invert_direction": True,
-            "intensity": 0.8,
-        },
-        {
-            "skirt_grp": "FKExtraSkirtC1_L",
-            "leg_data": leg_l_data,
-            "axis": "z",
-            "invert_collision": False,
-            "invert_direction": True,
-            "intensity": 0.8,
-        },
-        {
-            "skirt_grp": "FKExtraSkirtA1_R",
-            "leg_data": leg_r_data,
-            "axis": "z",
-            "invert_collision": True,
-            "invert_direction": True,
-            "intensity": 0.7,
-        },
-        {
-            "skirt_grp": "FKExtraSkirtB1_R",
-            "leg_data": leg_r_data,
-            "axis": "y",
-            "invert_collision": True,
-            "invert_direction": True,
-            "intensity": 0.8,
-        },
-        {
-            "skirt_grp": "FKExtraSkirtC1_R",
-            "leg_data": leg_r_data,
-            "axis": "z",
-            "invert_collision": False,
-            "invert_direction": True,
-            "intensity": 0.8,
-        },
-    ]
+            mc.addAttr("AimEye_M", ln=attr_name, k=1, dv=1, at="enum", en="Hide:Show")
 
-    for dict_config in list_config:
-        skirt_grp = dict_config["skirt_grp"]
-        leg_data = dict_config["leg_data"]
-        axis = dict_config["axis"]
-        invert_collision = dict_config["invert_collision"]
-        invert_direction = dict_config["invert_direction"]
-        intensity = dict_config["intensity"]
+            # joint scale
+            joint = "EyeSpec{}_{}".format(i, side)
+            md_name = "{}_vis_md".format(joint)
 
-        attr_output = "{}.rz".format(skirt_grp)
+            if mc.objExists(md_name):
+                # built by the old single eyeSpecVis attr: just re-drive it
+                node_md = md_name
+            else:
+                node_md = mc.createNode("multiplyDivide", n=md_name)
 
-        if Attribute.is_attr_connected(attr_output):
-            continue
+                # keep existing scale input (FK scale) and multiply it by vis,
+                # per axis: split a compound source (e.g. ctrl.scale) into X/Y/Z
+                src = mc.listConnections(joint + ".s", s=1, d=0, p=1)
+                if src:
+                    src_node, src_attr = src[0].split(".", 1)
+                    src_children = mc.attributeQuery(
+                        src_attr, node=src_node, listChildren=True
+                    )
+                    mc.disconnectAttr(src[0], joint + ".s")
+                    for axis, child in zip("XYZ", src_children):
+                        mc.connectAttr(
+                            "{}.{}".format(src_node, child),
+                            "{}.input1{}".format(node_md, axis),
+                            f=True,
+                        )
+                else:
+                    for axis in "XYZ":
+                        attr_scale = "{}.s{}".format(joint, axis.lower())
+                        src_axis = mc.listConnections(attr_scale, s=1, d=0, p=1)
+                        if src_axis:
+                            mc.connectAttr(
+                                src_axis[0], "{}.input1{}".format(node_md, axis), f=True
+                            )
+                        else:
+                            mc.setAttr(
+                                "{}.input1{}".format(node_md, axis), mc.getAttr(attr_scale)
+                            )
 
-        Create.create_skirt_auto_rot_simple(
-            leg_data=leg_data,
-            skirtA="Root_M",
-            attr_output=attr_output,
-            axis=axis,
-            invert_collision=invert_collision,
-            invert_direction=invert_direction,
-            intensity=intensity,
-        )
+            # md output -> joint scale, per axis (drop any compound .s link first,
+            # e.g. one made by the old eyeSpecVis setup)
+            src_compound = mc.listConnections(joint + ".s", s=1, d=0, p=1)
+            if src_compound:
+                mc.disconnectAttr(src_compound[0], joint + ".s")
 
-    mc.parentConstraint(
-        "FKExtraSkirtA1_R", "FKExtraSkirtA1_L", "FKExtraSkirtFront1_M", mo=True
-    )
-    mc.parentConstraint(
-        "FKExtraSkirtC1_R", "FKExtraSkirtC1_L", "FKExtraSkirtBack1_M", mo=True
-    )
+            for axis in "XYZ":
+                mc.connectAttr(vis_attr, "{}.input2{}".format(node_md, axis), f=True)
+                mc.connectAttr(
+                    "{}.output{}".format(node_md, axis),
+                    "{}.s{}".format(joint, axis.lower()),
+                    f=True,
+                )
 
-    # connect arm vis show/hide
-    if not Attribute.is_attr_exists("FKIKArm_L.armVis"):
-        mc.addAttr("FKIKArm_L", ln="armVis", k=1, dv=1, at="enum", en="Hide:Show")
-        mc.connectAttr(
-            "FKIKArm_L.armVis", "Kafka_Model_Proxy:Kafka_L_Arm_Geo.v", f=True
-        )
-    if not Attribute.is_attr_exists("FKIKArm_R.armVis"):
-        mc.addAttr("FKIKArm_R", ln="armVis", k=1, dv=1, at="enum", en="Hide:Show")
-        mc.connectAttr(
-            "FKIKArm_R.armVis", "Kafka_Model_Proxy:Kafka_R_Arm_Geo.v", f=True
-        )
+            # controller shape vis
+            control = "FKEyeSpec{}_{}".format(i, side)
+            for shape in mc.listRelatives(control, s=True, f=True) or []:
+                mc.setAttr(shape + ".v", l=False)
+                mc.connectAttr(vis_attr, shape + ".v", f=True)
 
-    # connect specular geo vis
-    dict_connect = {
-        "FKEyeSpec1_L": "Kafka_Model_Proxy:Kafka_L_EyeSpec1_Geo",
-        "FKEyeSpec2_L": "Kafka_Model_Proxy:Kafka_L_EyeSpec2_Geo",
-        "FKEyeSpec3_L": "Kafka_Model_Proxy:Kafka_L_EyeSpec3_Geo",
-        "FKEyeSpec1_R": "Kafka_Model_Proxy:Kafka_R_EyeSpec1_Geo",
-        "FKEyeSpec2_R": "Kafka_Model_Proxy:Kafka_R_EyeSpec2_Geo",
-        "FKEyeSpec3_R": "Kafka_Model_Proxy:Kafka_R_EyeSpec3_Geo",
-    }
-    for ctrl, geo in dict_connect.items():
-        if not Attribute.is_attr_exists("{}.geoVis".format(ctrl)):
-            mc.addAttr(ctrl, ln="geoVis", k=1, dv=1, at="enum", en="Hide:Show")
-            mc.connectAttr("{}.geoVis".format(ctrl), "{}.v".format(geo), f=True)
+    # old single attr is replaced by the per-spec attrs above
+    if Attribute.is_attr_exists("AimEye_M.eyeSpecVis"):
+        mc.deleteAttr("AimEye_M.eyeSpecVis")
 
     # =================================
     # Teeth
@@ -369,6 +497,136 @@ def run():
 
     mc.parentConstraint("upperTeeth_M", "FKExtrateethUpBase_M", mo=True)
     mc.parentConstraint("lowerTeeth_M", "FKExtrateethLowBase_M", mo=True)
+
+    # =================================
+    # Hair Constraint
+    # =================================
+    # FKHairBackD1 + FKHairBackA1 drive position of FKExtraHairBackB1 (both sides)
+    for side in ["_L", "_R"]:
+        list_source = ["FKHairBackD1" + side, "FKHairBackA1" + side]
+        target = "FKExtraHairBackB1" + side
+
+        if mc.listRelatives(target, typ="pointConstraint"):
+            continue
+
+        mc.pointConstraint(list_source, target, mo=True)
+
+    # =================================
+    # Eye Crease Parent
+    # =================================
+    # new offset group above FKOffsetEyeCrease, upperLid2 point constraint it
+    # (both sides)
+    for side in ["_L", "_R"]:
+        offset = "FKOffsetEyeCrease" + side
+        grp_follow = "FKOffsetEyeCreaseFollow" + side
+
+        # build follow group + constraint only once
+        if not mc.objExists(grp_follow):
+            offset_parent = mc.listRelatives(offset, p=True)
+            grp_follow = mc.group(em=True, n=grp_follow, p=offset_parent[0])
+            mc.matchTransform(grp_follow, offset)
+            mc.parent(offset, grp_follow)
+
+            mc.pointConstraint("upperLid2" + side, grp_follow, mo=True)
+
+    # re-orient FKOffsetEyeCrease_L (separate from the follow group setup)
+    mc.setAttr("FKOffsetEyeCrease_L.r", 0, 0, 180, typ="double3")
+    mc.setAttr("FKOffsetEyeCrease_L.s", 1, 1, -1, typ="double3")
+
+    # FKHairSide1 / FKHairSide2 : lock every attr, keep translate only (both sides)
+    for side in ["_L", "_R"]:
+        for ctrl in ["FKHairSide1" + side, "FKHairSide2" + side]:
+            Utility.lock_attribute(ctrl, r=1, s=1, v=1)
+
+            for attr in mc.listAttr(ctrl, ud=True, k=True) or []:
+                mc.setAttr("{}.{}".format(ctrl, attr), l=1, k=0)
+
+    # =================================
+    # Geo Display Mode
+    # =================================
+    # Main.DisplayMode drives drawing override of geo grp (default : Reference)
+    if not Attribute.is_attr_exists("Main.DisplayMode"):
+        mc.addAttr(
+            "Main", ln="DisplayMode", at="enum", en="Normal:Template:Reference", dv=2, k=1
+        )
+
+    mc.setAttr("geo.overrideEnabled", True)
+    mc.connectAttr("Main.DisplayMode", "geo.overrideDisplayType", f=True)
+
+    # turn off and lock smooth mesh preview of every mesh under geo
+    for shape in mc.listRelatives("geo", ad=True, typ="mesh", f=True) or []:
+        mc.setAttr(shape + ".displaySmoothMesh", l=False)
+        mc.setAttr(shape + ".displaySmoothMesh", 0)
+        mc.setAttr(shape + ".displaySmoothMesh", l=True)
+
+    # =================================
+    # Attach Zip Slider to Coat
+    # =================================
+    # closest point on coat geo -> skin weights there -> multi-target
+    # parentConstraint (maintain offset) using those weights
+    def attach_by_skin_weight(target, geo, exclude_keyword=None, min_weight=0.01):
+        if mc.listRelatives(target, typ="parentConstraint"):
+            return
+
+        shape = mc.listRelatives(geo, s=True, ni=True, typ="mesh", f=True)[0]
+        skin_cluster = mc.ls(mc.listHistory(shape, pdo=True) or [], type="skinCluster")[0]
+
+        sel = om.MSelectionList()
+        sel.add(shape)
+        fn_mesh = om.MFnMesh(sel.getDagPath(0))
+
+        pos = om.MPoint(mc.xform(target, q=True, ws=True, t=True))
+        closest_point, face_id = fn_mesh.getClosestPoint(pos, om.MSpace.kWorld)
+
+        # blend weights of the face vertices by inverse distance to closest point
+        list_vtx = fn_mesh.getPolygonVertices(face_id)
+        list_factor = [
+            1.0
+            / max(closest_point.distanceTo(fn_mesh.getPoint(v, om.MSpace.kWorld)), 1e-6)
+            for v in list_vtx
+        ]
+        total_factor = sum(list_factor)
+
+        dict_weight = {}
+        for vtx_id, factor in zip(list_vtx, list_factor):
+            vtx = "{}.vtx[{}]".format(shape, vtx_id)
+            influences = mc.skinPercent(skin_cluster, vtx, q=True, t=None, ib=1e-4)
+            values = mc.skinPercent(skin_cluster, vtx, q=True, v=True, ib=1e-4)
+
+            for inf, value in zip(influences, values):
+                dict_weight[inf] = (
+                    dict_weight.get(inf, 0) + value * factor / total_factor
+                )
+
+        # drop self influence (avoid cycle) and tiny weights, then normalize
+        dict_weight = {
+            inf: w
+            for inf, w in dict_weight.items()
+            if w >= min_weight and not (exclude_keyword and exclude_keyword in inf)
+        }
+        total_weight = sum(dict_weight.values())
+
+        list_influence = list(dict_weight)
+        constraint = mc.parentConstraint(list_influence, target, mo=True)[0]
+        list_alias = mc.parentConstraint(constraint, q=True, wal=True)
+
+        for inf, alias in zip(list_influence, list_alias):
+            mc.setAttr(
+                "{}.{}".format(constraint, alias), dict_weight[inf] / total_weight
+            )
+
+    list_coat_geo = [
+        geo
+        for geo in mc.ls("Kafka_Coat_Geo", "*:Kafka_Coat_Geo", type="transform")
+        if mc.ls(mc.listHistory(geo, pdo=True) or [], type="skinCluster")
+    ]
+
+    for side in ["_L", "_R"]:
+        attach_by_skin_weight(
+            target="FKExtraZipSlider" + side,
+            geo=list_coat_geo[0],
+            exclude_keyword="ZipSlider",
+        )
 
     # ===================
     # Scalable Cloth Arm
@@ -490,4 +748,13 @@ def run():
             worldUpObject="AimEyeUpVec",
         )
 
-    return
+    # Body
+    build_skirt_rig()
+
+    # Facial
+    add_eyelashes_blendshape()
+    eye_spec_aim()
+    parent_extra_chin_dtl_ctrl()
+    lock_facial_ctrl_attribute()
+
+    return  

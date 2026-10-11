@@ -1,0 +1,1192 @@
+{
+    "mesh":{"triangles":[20,64,65,40,41,23,23,41,24,72,73,25,25,73,28,48,49,24,24,49,23,31,68,32,32,68,69,45,31,44,44,31,32,35,52,36,36,52,53,76,77,37,37,77,38,60,61,38,38,61,37,26,56,27,27,56,57,7,66,67,17,42,9,9,42,43,10,74,18,18,74,75,9,50,17,17,50,51,12,0,71,71,0,70,46,47,12,12,47,0,54,55,11,11,55,14,1,78,15,15,78,79,15,62,1,1,62,63,58,59,5,5,59,19,67,64,7,7,64,20,4,66,22,22,66,65,43,40,9,9,40,23,42,17,41,41,17,24,75,72,18,18,72,25,5,74,27,27,74,73,51,48,17,17,48,24,50,9,49,49,9,23,59,56,19,19,56,26,6,58,29,29,58,57,12,71,31,31,71,68,70,69,3,3,69,30,46,12,45,45,12,31,47,44,0,0,44,32,14,55,35,35,55,52,54,11,53,53,11,36,15,79,37,37,79,76,78,77,11,11,77,36,63,60,1,1,60,38,2,62,39,39,62,61,41,40,21,21,40,22,42,41,16,16,41,21,42,16,43,43,16,4,43,4,40,40,4,22,33,45,34,34,45,44,46,45,13,13,45,33,13,8,46,46,8,47,47,8,44,44,8,34,49,48,28,28,48,25,50,49,10,10,49,28,50,10,51,51,10,18,48,51,25,25,51,18,52,33,53,53,33,34,54,53,8,8,53,34,55,54,13,13,54,8,55,13,52,52,13,33,57,56,29,59,58,6,56,59,29,29,59,6,58,5,57,57,5,27,61,60,39,63,62,2,60,63,39,39,63,2,62,15,61,61,15,37,65,64,22,22,64,21,66,4,67,67,4,16,64,67,21,21,67,16,66,7,65,65,7,20,69,68,30,71,70,3,71,3,68,68,3,30,69,70,32,32,70,0,72,26,73,73,26,27,75,74,19,19,74,5,72,75,26,26,75,19,74,10,73,73,10,28,76,35,77,77,35,36,79,78,14,14,78,11,79,14,76,76,14,35,77,78,38,38,78,1],"vertPositions":[3.4491798877716066,136.70411682128907,8.428154945373536,6.835316181182861,135.58184814453126,5.818256855010986,7.397365093231201,134.6208038330078,5.027582168579102,1.983672022819519,136.56402587890626,8.947493553161621,-3.44917893409729,136.70411682128907,8.428155899047852,-6.835317134857178,135.58184814453126,5.818256855010986,-7.397367000579834,134.6208038330078,5.027581214904785,-1.983672022819519,136.56402587890626,8.947493553161621,4.97777795791626,136.5441436767578,7.593341827392578,-4.97777795791626,136.54415893554688,7.593340873718262,-6.0559282302856449,136.15768432617188,6.6623148918151859,6.0559282302856449,136.1576690673828,6.662313938140869,3.4776599407196047,136.9497833251953,8.413467407226563,5.019064903259277,136.75592041015626,7.569707870483398,6.126910209655762,136.3563995361328,6.602410793304443,6.895247936248779,135.69918823242188,5.75441312789917,-3.477658987045288,136.9497833251953,8.413468360900879,-5.019064903259277,136.75592041015626,7.569707870483398,-6.126908779144287,136.35641479492188,6.602412223815918,-6.895248889923096,135.69918823242188,5.75441312789917,-2.0202410221099855,136.5659942626953,9.05121898651123,-3.52262806892395,136.95079040527345,8.514250755310059,-3.494148015975952,136.7051239013672,8.528938293457032,-5.040643215179443,136.54287719726563,7.684338092803955,-5.0819292068481449,136.754638671875,7.660704135894775,-6.2018561363220219,136.35411071777345,6.683019161224365,-6.9782562255859379,135.6940460205078,5.8268208503723148,-6.918323993682861,135.5767059326172,5.8906660079956059,-6.130874156951904,136.15538024902345,6.742920875549316,-7.48449182510376,134.61256408691407,5.094223976135254,2.0202419757843019,136.5659942626953,9.051218032836914,3.5226290225982668,136.95079040527345,8.51424789428711,3.494148015975952,136.7051239013672,8.528936386108399,5.081930160522461,136.754638671875,7.660705089569092,5.040643215179443,136.54286193847657,7.6843390464782719,6.201858997344971,136.35409545898438,6.683015823364258,6.1308770179748539,136.15536499023438,6.742918014526367,6.9782562255859379,135.6940460205078,5.826819896697998,6.918323993682861,135.5767059326172,5.890665054321289,7.4844889640808109,134.61256408691407,5.094226837158203,-4.2716898918151859,136.65695190429688,8.106637954711914,-4.306572914123535,136.88568115234376,8.087477684020996,-4.252655982971191,136.88580322265626,7.991588115692139,-4.217772960662842,136.6571044921875,8.010747909545899,4.2716898918151859,136.65695190429688,8.106637954711914,4.306573867797852,136.88568115234376,8.08747673034668,4.252656936645508,136.88580322265626,7.991588115692139,4.217772960662842,136.65708923339845,8.010747909545899,-5.645310878753662,136.56668090820313,7.1718621253967289,-5.589177131652832,136.36141967773438,7.213630199432373,-5.5202717781066898,136.36322021484376,7.127828121185303,-5.576405048370361,136.56846618652345,7.086060047149658,5.645312786102295,136.56666564941407,7.171861171722412,5.589179039001465,136.36141967773438,7.213628768920898,5.5202717781066898,136.3632049560547,7.127828121185303,5.576406002044678,136.56845092773438,7.086060047149658,-7.239260196685791,135.20721435546876,5.488245964050293,-7.207127094268799,135.1439208984375,5.5224289894104,-7.143914222717285,135.1087188720703,5.419163227081299,-7.173511028289795,135.16702270507813,5.3876800537109379,7.207128047943115,135.1439208984375,5.522426128387451,7.23926305770874,135.2071990966797,5.488239765167236,7.173511028289795,135.16702270507813,5.387679100036621,7.143908977508545,135.1087188720703,5.419167995452881,-2.759429931640625,136.77784729003907,8.787025451660157,-2.7373969554901125,136.65623474121095,8.797094345092774,-2.7189130783081056,136.65684509277345,8.686943054199219,-2.7416350841522219,136.7822723388672,8.676559448242188,2.7594289779663088,136.77784729003907,8.787023544311524,2.737399101257324,136.65623474121095,8.79709243774414,2.7189109325408937,136.65684509277345,8.686943054199219,2.741633892059326,136.7822723388672,8.676560401916504,-6.611812114715576,136.06809997558595,6.263966083526611,-6.556588172912598,135.90261840820313,6.315313816070557,-6.490991115570068,135.89743041992188,6.225194931030273,-6.545772075653076,136.06182861328126,6.1740570068359379,6.611812114715576,136.06808471679688,6.2639641761779789,6.556585788726807,135.90261840820313,6.315314769744873,6.4909892082214359,135.8974151611328,6.22519588470459,6.54577112197876,136.06182861328126,6.1740570068359379]},
+    "influences": [{
+            "pivot": [9.304394158538294, 16.38289416859758, -2.3176805154883217],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L|KneePart1_L|KneePart2_L|KneePart3_L|KneePart4_L|KneePart5_L",
+            "index": 0,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.30439311659044, 22.666360752840423, -1.904928853266699],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L|KneePart1_L|KneePart2_L|KneePart3_L|KneePart4_L",
+            "index": 1,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304392074661657, 28.94982920958564, -1.4921770680597693],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L|KneePart1_L|KneePart2_L|KneePart3_L",
+            "index": 2,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304391032756266, 35.23329577850003, -1.0794254068814462],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L|KneePart1_L|KneePart2_L",
+            "index": 3,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304389990869634, 41.51676615331007, -0.666673495716059],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L|KneePart1_L",
+            "index": 4,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388957508854, 52.9585272908613, -0.18848908346689068],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L",
+            "index": 5,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388966016847, 58.11682183270414, -0.12305633495087777],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L",
+            "index": 6,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.3043889745201, 63.27511637612004, -0.05762358641346533],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L",
+            "index": 7,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388983017697, 68.43341093499771, 0.007809162321799784],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L",
+            "index": 8,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388991510552, 73.59170547681895, 0.07324191084214976],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L",
+            "index": 9,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388999999994, 78.74999999000002, 0.138674659000233],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L",
+            "index": 10,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304394158960012, 16.382894150149306, -2.317680047084054],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R|KneePart1_R|KneePart2_R|KneePart3_R|KneePart4_R|KneePart5_R",
+            "index": 11,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304393116928767, 22.666360737492089, -1.9049284320540219],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R|KneePart1_R|KneePart2_R|KneePart3_R|KneePart4_R",
+            "index": 12,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.30439207491649, 28.949829197337228, -1.4921766940386852],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R|KneePart1_R|KneePart2_R|KneePart3_R",
+            "index": 13,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304391032927486, 35.23329576935157, -1.0794250800519259],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R|KneePart1_R|KneePart2_R",
+            "index": 14,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304389990957134, 41.516766147261588, -0.6666732160781191],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R|KneePart1_R",
+            "index": 15,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388957511867, 52.95852728840412, -0.18848888976155848],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R",
+            "index": 16,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388966019257, 58.116821830738398, -0.12305617998661084],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R",
+            "index": 17,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388974521947, 63.27511637464574, -0.05762347019026391],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R",
+            "index": 18,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388983018983, 68.43341093401482, 0.007809239803934107],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R",
+            "index": 19,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388991511221, 73.59170547632752, 0.07324194958321762],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R",
+            "index": 20,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388999999994, 78.74999999000005, 0.13867465900023247],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R",
+            "index": 21,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [60.93762585031664, 116.08209702845032, -3.637190547947649],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|RingFinger1_L|RingFinger2_L",
+            "index": 22,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [58.08246990568579, 116.1803779603861, -3.595928545475925],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|RingFinger1_L",
+            "index": 23,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [60.61803706991082, 116.105819535065, -4.908858512443332],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|PinkyFinger1_L|PinkyFinger2_L",
+            "index": 24,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [57.81600184302557, 116.0286889029075, -4.905194212704173],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|PinkyFinger1_L",
+            "index": 25,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [62.46751757200265, 116.041090548924, -1.0248848997224676],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|IndexFinger1_L|IndexFinger2_L|IndexFinger3_L",
+            "index": 26,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [61.01074548559207, 116.11792031922937, -1.0015882339278773],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|IndexFinger1_L|IndexFinger2_L",
+            "index": 27,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [58.22107314515028, 116.15842376363051, -0.9546418094668233],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|IndexFinger1_L",
+            "index": 28,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [56.90829747427353, 114.60426381387534, 2.1515623108817949],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|ThumbFinger1_L|ThumbFinger2_L|ThumbFinger3_L",
+            "index": 29,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [55.50347088119666, 114.75315233360169, 0.8507428295392959],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|ThumbFinger1_L|ThumbFinger2_L",
+            "index": 30,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [53.66509841887057, 114.8334702852852, -0.8740851422874131],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|ThumbFinger1_L",
+            "index": 31,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [65.35016630103518, 116.04587596485385, -2.3085778716831237],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|MiddleFinger1_L|MiddleFinger2_L|MiddleFinger3_L|MiddleFinger4_L",
+            "index": 32,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [62.52881620297031, 116.11447950066845, -2.3154432558020288],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|MiddleFinger1_L|MiddleFinger2_L|MiddleFinger3_L",
+            "index": 33,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [61.10091398098888, 116.16776147650082, -2.321000359981692],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|MiddleFinger1_L|MiddleFinger2_L",
+            "index": 34,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [58.20434949662448, 116.29721565120937, -2.3309813550334819],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|MiddleFinger1_L",
+            "index": 35,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [52.33879087291228, 115.60433967721014, -2.505472326664718],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L",
+            "index": 36,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [48.41480636756042, 115.60433951646333, -2.5620156578451618],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L",
+            "index": 37,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [44.49082183967552, 115.60433933298953, -2.6185589890742788],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L",
+            "index": 38,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [40.56683987389297, 115.60433914960395, -2.675102283408226],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L",
+            "index": 39,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [36.64285659785888, 115.604338966323, -2.731645596650908],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L",
+            "index": 40,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [32.718872070021827, 115.60433878313003, -2.788188927955544],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L",
+            "index": 41,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [28.794888879999989, 115.60433860000002, -2.8447322399997629],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L",
+            "index": 42,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [22.464239113035374, 115.60433893987924, -2.3871656467617305],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L",
+            "index": 43,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [19.29891424152955, 115.6043391075438, -2.158382350990106],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L",
+            "index": 44,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [16.133588793098139, 115.60433927321263, -1.9295990135034656],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L",
+            "index": 45,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [12.968264581869628, 115.60433943720499, -1.7008157654259133],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L",
+            "index": 46,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.802939605000003, 115.60433960000005, -1.4720324619997634],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L",
+            "index": 47,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.07160139084129, 114.36312864094687, -0.3179096769793621],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L",
+            "index": 48,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-60.93762591753759, 116.08209712507338, -3.637189315119046],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|RingFinger1_R|RingFinger2_R",
+            "index": 49,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-58.08246997207404, 116.18037805355893, -3.595927362046898],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|RingFinger1_R",
+            "index": 50,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-60.618037162881538, 116.10581974054601, -4.908857284055307],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|PinkyFinger1_R|PinkyFinger2_R",
+            "index": 51,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-57.81600193591987, 116.02868910815498, -4.905193047654524],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|PinkyFinger1_R",
+            "index": 52,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-62.467517586327797, 116.04109042190236, -1.024883639426178],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|IndexFinger1_R|IndexFinger2_R|IndexFinger3_R",
+            "index": 53,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-61.010745499447697, 116.11792019025535, -1.0015869965524343],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|IndexFinger1_R|IndexFinger2_R",
+            "index": 54,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-58.22107315805648, 116.15842363071775, -0.9546406251105034],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|IndexFinger1_R",
+            "index": 55,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-56.90829741734264, 114.60426342105132, 2.1515633434703176],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|ThumbFinger1_R|ThumbFinger2_R|ThumbFinger3_R",
+            "index": 56,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-55.5034708537043, 114.7531520496403, 0.8507438427956267],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|ThumbFinger1_R|ThumbFinger2_R",
+            "index": 57,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-53.665098430107757, 114.83347014560745, -0.8740841635914454],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|ThumbFinger1_R",
+            "index": 58,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-65.35016634135295, 116.0458759476279, -2.3085765526088255],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|MiddleFinger1_R|MiddleFinger2_R|MiddleFinger3_R|MiddleFinger4_R",
+            "index": 59,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-62.52881624342902, 116.11447948411075, -2.3154419879827978],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|MiddleFinger1_R|MiddleFinger2_R|MiddleFinger3_R",
+            "index": 60,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-61.10091402156174, 116.16776146045967, -2.3209991165143197],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|MiddleFinger1_R|MiddleFinger2_R",
+            "index": 61,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-58.204349537403079, 116.29721563610527, -2.33098015913585],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|MiddleFinger1_R",
+            "index": 62,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-52.338790917204267, 115.60433967720926, -2.505471308841397],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R",
+            "index": 63,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-48.41480636428161, 115.6043395164634, -2.562014720127896],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R",
+            "index": 64,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-44.490821837533498, 115.60433933298964, -2.6185581308510006],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R",
+            "index": 65,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-40.566839923486579, 115.60433914960402, -2.675101503943284],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R",
+            "index": 66,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-36.64285659800755, 115.60433896632311, -2.7316448973945799],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R",
+            "index": 67,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-32.718872071324337, 115.60433878313009, -2.788188308172256],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R",
+            "index": 68,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-28.79488893000001, 115.60433859999999, -2.8447316989997639],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R",
+            "index": 69,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-22.46423912570186, 115.60433893987919, -2.3871652315840548],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R",
+            "index": 70,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-19.29891427749935, 115.60433910754372, -2.158382001802213],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R",
+            "index": 71,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-16.133588796514358, 115.60433927321256, -1.9295987263077122],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R",
+            "index": 72,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-12.968264580668338, 115.60433943720493, -1.700815542274674],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R",
+            "index": 73,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.802939628000003, 115.60433960000005, -1.4720323049997637],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R",
+            "index": 74,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.0716013908388897, 114.36312864094697, -0.31790967697936359],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R",
+            "index": 75,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-7.27951917941335e-13, 126.47738645283637, -0.40461880232186317],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M",
+            "index": 76,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.6946724924800149e-13, 104.9217529296817, 2.6851461819246866],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M",
+            "index": 77,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.1223794085358205e-13, 99.568720499668, 2.6851461819247208],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M",
+            "index": 78,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.829555357990301e-14, 94.21568806965445, 2.685146181924759],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M",
+            "index": 79,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.353166330303179e-15, 88.86265563964085, 2.6851461819247977],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M",
+            "index": 80,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.5582812893206073e-15, 88.24680328369127, 2.6851461819250326],
+            "path": "|Group|DeformationSystem|Root_M",
+            "index": 81,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [62.456893886256739, 115.97059608109712, -3.662091612845921],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|RingFinger1_L|RingFinger2_L|RingFinger3_L",
+            "index": 82,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [61.82866072281773, 116.16154325911802, -4.9185359958165189],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L|PinkyFinger1_L|PinkyFinger2_L|PinkyFinger3_L",
+            "index": 83,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-62.456893953978667, 115.97059617980821, -3.6620903587987336],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|RingFinger1_R|RingFinger2_R|RingFinger3_R",
+            "index": 84,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-61.828660815985987, 116.16154346539286, -4.918534738145779],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R|PinkyFinger1_R|PinkyFinger2_R|PinkyFinger3_R",
+            "index": 85,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [53.85203281370866, 115.90187606160211, -4.1205230093343],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_L|Shoulder_L|ShoulderPart1_L|ShoulderPart2_L|ShoulderPart3_L|ShoulderPart4_L|ShoulderPart5_L|Elbow_L|ElbowPart1_L|ElbowPart2_L|ElbowPart3_L|ElbowPart4_L|ElbowPart5_L|Wrist_L|Cup_L",
+            "index": 86,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-53.85203289071112, 115.90187619979874, -4.1205219354027309],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Scapula_R|Shoulder_R|ShoulderPart1_R|ShoulderPart2_R|ShoulderPart3_R|ShoulderPart4_R|ShoulderPart5_R|Elbow_R|ElbowPart1_R|ElbowPart2_R|ElbowPart3_R|ElbowPart4_R|ElbowPart5_R|Wrist_R|Cup_R",
+            "index": 87,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.055398941000094, 131.76594539999747, 7.3396639819999829],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain0_R",
+            "index": 88,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.094364954096177, 132.51348878641549, 7.377683464302736],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain1_R",
+            "index": 89,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.2855090821647559, 133.39338679730526, 7.415701760262662],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain2_R",
+            "index": 90,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.816657864958644, 134.29229735073697, 7.375744302093519],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain3_R",
+            "index": 91,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-3.167700848259007, 134.53372184441168, 7.333860392415659],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain4_R",
+            "index": 92,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-3.8880290412986526, 134.6903838801446, 7.105515809437824],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain5_R",
+            "index": 93,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.892125983380322, 134.65327447286473, 6.636185920770412],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain6_R",
+            "index": 94,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.446060972564526, 134.55564876317608, 6.326069540106685],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain7_R",
+            "index": 95,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.146681150744504, 134.01205444229198, 5.731416715706083],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain8_R",
+            "index": 96,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.565305954062335, 133.36363219136619, 5.3656164702283128],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain9_R",
+            "index": 97,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.821702003000102, 132.75692749999753, 5.171710967999991],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain10_R",
+            "index": 98,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.056428812513896, 131.2708130556863, 7.375250420297451],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain1_R",
+            "index": 99,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.901565861725401, 130.80159009947227, 7.213762694170814],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain2_R",
+            "index": 100,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-3.5230100456528739, 130.62077328277969, 7.0996480839467079],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain3_R",
+            "index": 101,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.4577396175465699, 130.3948518059765, 6.881516457036177],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain4_R",
+            "index": 102,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.08405416630997, 130.43707272390166, 6.6094153942916249],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain5_R",
+            "index": 103,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.33611389007728, 130.56933591609369, 6.369171069524066],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain6_R",
+            "index": 104,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.015407083684824, 131.0404816003831, 5.72200202693823],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain7_R",
+            "index": 105,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.471856731904267, 131.69168096320846, 5.314200396657776],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain8_R",
+            "index": 106,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.6643078050950879, 132.20625313042494, 5.211343401643361],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain9_R",
+            "index": 107,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.0553989409998936, 131.76594539999753, 7.339663981999985],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain0_L",
+            "index": 108,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.094364954095993, 132.51348878641563, 7.377683464302728],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain1_L",
+            "index": 109,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.2855090821645529, 133.39338679730515, 7.415701760262656],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain2_L",
+            "index": 110,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.816657864958426, 134.29229735073703, 7.375744302093525],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain3_L",
+            "index": 111,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [3.1677008482587816, 134.53372184441174, 7.333860392415668],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain4_L",
+            "index": 112,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [3.8880290412984519, 134.69038388014455, 7.1055158094378279],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain5_L",
+            "index": 113,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [4.892125983380103, 134.65327447286487, 6.636185920770402],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain6_L",
+            "index": 114,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [5.446060972564304, 134.55564876317605, 6.3260695401066819],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain7_L",
+            "index": 115,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.146681150744273, 134.012054442292, 5.731416715706081],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain8_L",
+            "index": 116,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.565305954062125, 133.36363219136624, 5.365616470228324],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain9_L",
+            "index": 117,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.8217020029998969, 132.75692749999747, 5.171710967999988],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|upperLidMain10_L",
+            "index": 118,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.05642881251369, 131.2708130556864, 7.37525042029746],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain1_L",
+            "index": 119,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [2.901565861725193, 130.8015900994723, 7.213762694170824],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain2_L",
+            "index": 120,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [3.523010045652656, 130.62077328277983, 7.099648083946725],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain3_L",
+            "index": 121,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [4.4577396175463479, 130.39485180597652, 6.8815164570361919],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain4_L",
+            "index": 122,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [5.084054166309744, 130.43707272390163, 6.609415394291615],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain5_L",
+            "index": 123,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [5.336113890077071, 130.5693359160936, 6.369171069524089],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain6_L",
+            "index": 124,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.015407083684617, 131.04048160038307, 5.722002026938226],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain7_L",
+            "index": 125,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.471856731904045, 131.69168096320844, 5.314200396657775],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain8_L",
+            "index": 126,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.664307805094876, 132.20625313042479, 5.211343401643357],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeLidJoints_M|lowerLidMain9_L",
+            "index": 127,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.5243112478445673e-12, 126.4922080129062, 9.583000006624664],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint0_M",
+            "index": 128,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-0.5158399343490662, 126.4922078638946, 9.42791247601172],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint1_R",
+            "index": 129,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.2044918537139955, 126.4922069772755, 9.09377932781836],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint2_R",
+            "index": 130,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.7866120338440015, 126.49220751371735, 8.754400613256902],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint3_R",
+            "index": 131,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.962996006011969, 126.49221786257373, 8.670900347181766],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint4_R",
+            "index": 132,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.9636000394821236, 126.49221038964139, 8.663100244947878],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|cornerLipJoint_R",
+            "index": 133,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-2.5208003375490938e-12, 126.49220569205036, 9.37728232378622],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint0_M",
+            "index": 134,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-0.5123770833015505, 126.49221269559617, 9.242228748747318],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint1_R",
+            "index": 135,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.177535057067877, 126.49221101549019, 8.983693840452638],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint2_R",
+            "index": 136,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.791389942169196, 126.49221043434493, 8.72735405201575],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint3_R",
+            "index": 137,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.957303047180183, 126.4922103896414, 8.661922457167119],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint4_R",
+            "index": 138,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [0.5158399343490533, 126.49220786389469, 9.427912476011722],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint1_L",
+            "index": 139,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.2044918537139829, 126.49220697727556, 9.093779327818359],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint2_L",
+            "index": 140,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.786612033843987, 126.49220751371732, 8.754400613256893],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint3_L",
+            "index": 141,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.9629960060119567, 126.49221786257381, 8.670900347181762],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|upperLipJoint4_L",
+            "index": 142,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.96360003948211, 126.49221038964146, 8.663100244947872],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|cornerLipJoint_L",
+            "index": 143,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [0.512377083301538, 126.49221269559614, 9.242228748747316],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint1_L",
+            "index": 144,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.1775350570678629, 126.49221101549021, 8.983693840452635],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint2_L",
+            "index": 145,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.7913899421691824, 126.49221043434499, 8.727354052015747],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint3_L",
+            "index": 146,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.9573030471801692, 126.49221038964146, 8.661922457167112],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|LipJoints_M|lowerLipJoint4_L",
+            "index": 147,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.983672022819627, 136.5640258789038, 8.947493553161613],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowInnerJoint_R",
+            "index": 148,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [1.9836720228194125, 136.56402587890379, 8.947493553161609],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowInnerJoint_L",
+            "index": 149,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-3.485068082809559, 136.85922241210694, 8.365072250366208],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowMid1Joint_R",
+            "index": 150,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [3.485068082809344, 136.85922241210685, 8.365072250366197],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowMid1Joint_L",
+            "index": 151,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-6.0559282302857488, 136.15768432616944, 6.662314891815173],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowMid2Joint_R",
+            "index": 152,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [6.055928230285536, 136.15768432616935, 6.6623148918151708],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowMid2Joint_L",
+            "index": 153,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-7.337798595428574, 134.58334350585697, 5.029862880706776],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowOuterJoint_R",
+            "index": 154,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [7.337798595428355, 134.58334350585688, 5.029862880706773],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowOuterJoint_L",
+            "index": 155,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.0583417981495364e-13, 136.78892517089597, 8.788377761840806],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|EyeBrowCenterJoint_M",
+            "index": 156,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-1.0583417981495491e-13, 128.64990234374754, 2.1122519969940058],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|JawJoint_M",
+            "index": 157,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.711652318760787e-13, 117.89920040000004, -0.40461880229976418],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M",
+            "index": 158,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.901864051737949e-13, 119.3288955677344, -0.4046188022958471],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M",
+            "index": 159,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.377396602366862e-13, 120.75859832639246, -0.4046188022931419],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M",
+            "index": 160,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-5.995585749222973e-13, 122.1882934438117, -0.40461880229213245],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M",
+            "index": 161,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-7.089307451281976e-13, 125.04769134410161, -0.4046188022958471],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M",
+            "index": 162,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [9.304388948997464, 47.80023276457005, -0.2539218317846],
+            "path": "|Group|DeformationSystem|Root_M|Hip_L|HipPart1_L|HipPart2_L|HipPart3_L|HipPart4_L|HipPart5_L|Knee_L",
+            "index": 163,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-9.304388949001174, 47.80023276162149, -0.2539215993382016],
+            "path": "|Group|DeformationSystem|Root_M|Hip_R|HipPart1_R|HipPart2_R|HipPart3_R|HipPart4_R|HipPart5_R|Knee_R",
+            "index": 164,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [4.676345825195205, 125.96743011474367, 5.886559009551991],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|CheekJoint_L",
+            "index": 165,
+            "labelText": "",
+            "labelSide": 0
+        }, {
+            "pivot": [-4.676345825195418, 125.96743011474364, 5.886559009551987],
+            "path": "|Group|DeformationSystem|Root_M|RootPart1_M|RootPart2_M|Spine1_M|Spine1Part1_M|Spine1Part2_M|Chest_M|Neck_M|NeckPart1_M|NeckPart2_M|NeckPart3_M|NeckPart4_M|NeckPart5_M|Head_M|FaceJoint_M|CheekJoint_R",
+            "index": 166,
+            "labelText": "",
+            "labelSide": 0
+        }],
+    "layers": [{
+            "id": 1,
+            "name": "base",
+            "enabled": true,
+            "opacity": 1.0,
+            "index": 0,
+            "paintTarget": null,
+            "paintTargets": [],
+            "parentId": null,
+            "children": [],
+            "effects": {
+                "mirrorMask": false,
+                "mirrorWeights": false,
+                "mirrorDq": false,
+                "mirrorDirection": 1
+            },
+            "influences": {
+                "0": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "1": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "2": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "3": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "4": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "5": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "6": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "7": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "8": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "9": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "10": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "11": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "12": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "13": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "14": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "15": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "16": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "17": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "18": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "19": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "20": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "21": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "22": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "23": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "24": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "25": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "26": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "27": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "28": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "29": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "30": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "31": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "32": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "33": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "34": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "35": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "36": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "37": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "38": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "39": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "40": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "41": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "42": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "43": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "44": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "45": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "46": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "47": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "48": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "49": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "50": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "51": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "52": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "53": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "54": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "55": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "56": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "57": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "58": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "59": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "60": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "61": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "62": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "63": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "64": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "65": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "66": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "67": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "68": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "69": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "70": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "71": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "72": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "73": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "74": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "75": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "76": [0.063484907, 0.22858002279352569, 0.562205941, 0.001596748, 0.063484907, 0.22858011018007597, 0.562205941, 0.001596748, 0.072300374, 0.07230254665072292, 0.1191107170170763, 0.119108259, 0.0976319606954875, 0.10726032391390586, 0.15598703665145015, 0.24799961224689763, 0.09763194613698552, 0.10726019740145941, 0.15598949933658819, 0.247999635968849, 0.0025099899719040394, 0.09765857363706829, 0.06351185276690312, 0.07243129882371043, 0.10738888263060667, 0.1560149599144109, 0.24779694051162827, 0.22880601639240706, 0.11913629306164636, 0.562205941, 0.0025100304973964696, 0.09765861003332316, 0.0635118547043661, 0.10738904206981805, 0.07242909941827709, 0.15601278813657763, 0.11913410973229219, 0.24779703828445799, 0.22880600526576815, 0.562205941, 0.07291233290877336, 0.10252442583968563, 0.10244811204314487, 0.07283680642879506, 0.07291236479961262, 0.1025245237662415, 0.10244818266642636, 0.0728346203501886, 0.13167933740673538, 0.09783050208176156, 0.09775567409101652, 0.13160488023250115, 0.1316783873859546, 0.0978305634221494, 0.09775107372627666, 0.13160391471901185, 0.39710022320921137, 0.38382790756106019, 0.3978955847963705, 0.41026584094171339, 0.38382871834171908, 0.3971040354699475, 0.4102661534280032, 0.3978947146902976, 0.0496302727696516, 0.035245654568185767, 0.03569693198023135, 0.05063262646997299, 0.049630140093658198, 0.035245693517799398, 0.03569691934260567, 0.05063251942069576, 0.20394002976096788, 0.17841184935757765, 0.18020105947815694, 0.20561705695999359, 0.2039391500635449, 0.1784110257248055, 0.18019872939938776, 0.20561520219420038],
+                "77": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "78": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "79": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "80": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "81": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "82": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "83": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "84": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "85": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "86": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "87": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "88": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "89": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "90": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "91": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "92": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "93": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "94": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "95": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "96": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "97": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "98": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "99": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "100": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "101": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "102": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "103": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "104": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "105": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "106": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "107": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "108": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "109": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "110": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "111": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "112": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "113": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "114": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "115": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "116": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "117": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "118": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "119": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "120": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "121": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "122": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "123": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "124": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "125": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "126": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "127": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "128": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "129": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "130": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "131": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "132": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "133": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "134": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "135": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "136": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "137": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "138": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "139": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "140": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "141": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "142": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "143": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "144": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "145": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "146": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "147": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "148": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.998403252, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006465394052524567, 0.0, 0.0, 0.0, 0.997490010028096, 0.006470435698448183, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.00046422713900070515, 0.003234753890594409, 0.003232354796300071, 0.00046409239592949523, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5067089623775398, 0.514622829544808, 0.4999981291777648, 0.49191661797758248, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "149": [0.0, 0.0, 0.0, 0.998403252, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.006465396809028627, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9974899695026036, 0.006470442589708328, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0004643190020225335, 0.003234757335730349, 0.003232356709057871, 0.0004639712869123212, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5067107172223423, 0.5146224510762566, 0.49999945135902315, 0.4919178018671322, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "150": [0.0, 0.0, 0.0, 0.0, 0.906928427, 0.0, 0.0, 0.0, 0.0, 0.4295238358657145, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8692787790711595, 0.4133381283029314, 0.0, 0.0, 0.0, 0.869249420273774, 0.9069036343499071, 0.42946422369510237, 0.41327888560152739, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6648478840108871, 0.6412314578496687, 0.6412801450235359, 0.6648956258946601, 0.0, 0.0, 0.0, 0.0, 0.20683138579515604, 0.21469407240904349, 0.21472978508013736, 0.20685034881849929, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4304770069710158, 0.4360673481906018, 0.4497923309558503, 0.44385651713091658, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "151": [0.906928427, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.429524922, 0.0, 0.0, 0.0, 0.8692787630193295, 0.41333846538927657, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8692493801441985, 0.9069036404896567, 0.41327886888382339, 0.429465322132072, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.6648479665352429, 0.6412314294277078, 0.6412803361396298, 0.6648963801399922, 0.0, 0.0, 0.0, 0.0, 0.20683090939507643, 0.21469557006165836, 0.214729382259162, 0.20684883414520903, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.4304754338808773, 0.43606767990331138, 0.4497910661541423, 0.44385547267376326, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "152": [0.0, 0.0, 0.0, 0.0, 0.029586666, 0.4965189378581858, 0.0, 0.0, 0.0, 0.4981736174835626, 0.8359027229068468, 0.0, 0.0, 0.0, 0.0, 0.0, 0.026623880739330413, 0.4794016742956092, 0.7991703299907793, 0.482183158032504, 0.0, 0.026621570390709647, 0.029584512883189638, 0.49810447748118727, 0.47933223176786596, 0.7991448877862748, 0.4822914958121685, 0.49581910458968167, 0.835877248328437, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.2617755559413389, 0.2530093624200512, 0.25303938813701906, 0.26180347528061539, 0.0, 0.0, 0.0, 0.0, 0.6390900261815266, 0.6650319886480853, 0.665071751885304, 0.6391444134261149, 0.0, 0.0, 0.0, 0.0, 0.25536161701545759, 0.263864340359378, 0.24305483650668292, 0.23513047480075292, 0.0, 0.0, 0.0, 0.0, 0.013183757881792838, 0.014064167696404546, 0.014512607886153559, 0.01359423842152798, 0.0, 0.0, 0.0, 0.0, 0.6424642927706499, 0.661560391407821, 0.6560547100852369, 0.6373287919120737, 0.0, 0.0, 0.0, 0.0],
+                "153": [0.029586666, 0.4965191206999226, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.498174704, 0.0, 0.0, 0.835905055, 0.026623879476154575, 0.4794012106968176, 0.7991726441857278, 0.48218320540838896, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.026621567232770029, 0.02958450480597729, 0.4793320890463586, 0.49810557844965089, 0.7991469665187332, 0.835879306845854, 0.48229146458590207, 0.49581906746881579, 0.0, 0.0, 0.0, 0.0, 0.0, 0.261775349663122, 0.25300928947032039, 0.25303912448488599, 0.26180502822290688, 0.0, 0.0, 0.0, 0.0, 0.6390913553418625, 0.6650305315332928, 0.6650765297236176, 0.6391466377239953, 0.0, 0.0, 0.0, 0.0, 0.2638631410182955, 0.2553557925773007, 0.23512998460005475, 0.24305612360443, 0.0, 0.0, 0.0, 0.0, 0.013183708803122245, 0.01406417550263275, 0.014512563144228854, 0.013594206038408791, 0.0, 0.0, 0.0, 0.0, 0.6424647606137404, 0.6615626047784596, 0.656056337008263, 0.6373319702721353],
+                "154": [0.0, 0.0, 0.0, 0.0, 0.0, 0.27490095196173838, 0.437794059, 0.0, 0.0, 0.0, 0.04498656007607694, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.044840170672632548, 0.26981720599864719, 0.0, 0.0, 0.0, 0.0, 0.0, 0.044840152299314279, 0.2699115636762034, 0.27537487901791138, 0.04498645860991668, 0.437794059, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.022399250616582029, 0.022443436861109696, 0.022442788943542223, 0.022400357522884639, 0.0, 0.0, 0.0, 0.0, 0.34753815977533117, 0.35230775207956185, 0.35904957869694667, 0.3546036842575337, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.15359567746838224, 0.16002775923460139, 0.16374423043660625, 0.15705415112793273, 0.0, 0.0, 0.0, 0.0],
+                "155": [0.0, 0.27490085650655179, 0.437794059, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.044986686, 0.0, 0.0, 0.044840319162822109, 0.26981718234471349, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.044840245344689378, 0.04498658342185402, 0.26991149712964, 0.275374927265416, 0.437794059, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.022399347877106656, 0.022443334982899408, 0.02244301429094389, 0.022400613411783903, 0.0, 0.0, 0.0, 0.0, 0.3523081406399855, 0.3475401719527519, 0.3546038619719421, 0.35904916170527248, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.15359608932271477, 0.16002636949673494, 0.16374493359234933, 0.1570528275336644],
+                "156": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "157": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "158": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "159": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "160": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "161": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "162": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "163": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "164": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "165": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+                "166": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+            }
+        }]
+}
